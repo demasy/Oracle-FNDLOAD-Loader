@@ -12,6 +12,18 @@ The Generic Loader is a concurrent program named FNDLOAD. The concurrent executa
 
 <br>
 
+| Code      | Variable                   | Description                   |
+| :-:       | :--------                  | :--------------------------   |
+| 1         | <apps/pwd>                 | -       |
+| 2         | < 0 Y >                    | -       |
+| 3         | {mode}                     | -       |
+| 4         | {configfile}               | -       |
+| 5         | {datafile}                 | -       |
+| 6         | {entity}                   | -       |
+| 7         | [optional {param} {param}] | -       |
+
+<br>
+
 ## **FNDLOAD Entities** 
 | Code      | Entity Name                           | Notes   |
 | :-:       | :--------                             | :--------------------------   |
