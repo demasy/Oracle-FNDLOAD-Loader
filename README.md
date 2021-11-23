@@ -43,3 +43,7 @@ This is my recommended naming conventions for the data file name.
  | 18        | Users                  | XXDL_DEMASY_LABS               | u_     |   -     | u_DEMASY_LABS.ldt | 
  
  <br>
+
+
+###### Suggestions & Issues
+> If you find any issue or have a great idea in mind please create an issue on <a href="https://github.com/demasy/Oracle-FNDLOAD-Scripts/issues">GitHub</a>.
