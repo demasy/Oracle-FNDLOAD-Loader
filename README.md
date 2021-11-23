@@ -43,7 +43,7 @@ FNDLOAD
 
 <br>
 
-| Code      | Entity Name                           | Notes   |
+| Code      | Entity Name                           | Configuration File   |
 | :-:       | :--------                             | :----   |
 | -         | **Oracle Application Object Library** | -       |
 | 1         | Concurrent program definitions        | -       |
@@ -58,7 +58,7 @@ FNDLOAD
 | 5.1       | Value sets                            | -       |
 | 5.2       | Descriptive flexfields                | -       |
 | 5.3       | Key flexfields                        | -       |
-| 6         | Attachments definitions               | -       |
+| 6         | Attachments definitions               | afattach.lct       |
 | 7         | Messages                              | -       |
 | 8         | Security information                  | -       |
 | 9         | Workflow                              | -       |
