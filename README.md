@@ -44,6 +44,10 @@ This is my recommended naming conventions for the data file name.
  
  <br>
 
+###### Additional Resources
+> <a href="https://docs.oracle.com/cd/E18727_01/doc.121/e12893/T174296T206863.htm">Oracle® E-Business Suite System Administrator's Guide - Configuration</a>
+
+<br>
 
 ###### Suggestions & Issues
 > If you find any issue or have a great idea in mind please create an issue on <a href="https://github.com/demasy/Oracle-FNDLOAD-Scripts/issues">GitHub</a>.
