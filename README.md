@@ -46,20 +46,20 @@ FNDLOAD
 | Code      | Entity Name                           | Configuration File   |
 | :-:       | :--------                             | :----   |
 | -         | **Oracle Application Object Library** | -       |
-| 1         | Concurrent program definitions        | -       |
-| 2         | Request groups                        | -       |
-| 3         | **Lookups**                           | -       |
+| 1         | Concurrent program definitions        | afcpprog.lct       |
+| 2         | Request groups                        | afcpreqg.lct       |
+| 3         | **Lookups**                           | aflvmlu.lct       |
 | 3.1       | Lookup types                          | -       |
 | 3.2       | Lookup values                         | -       |
-| 4         | **Profile options**                   | -       |
+| 4         | **Profile options**                   | afscprof.lct       |
 | 4.1       | Profile option definitions            | -       |
 | 4.2       | profile option values                 | -       |
-| 5         | **Flexfields setup**                  | -       |
+| 5         | **Flexfields setup**                  | afffload.lct       |
 | 5.1       | Value sets                            | -       |
 | 5.2       | Descriptive flexfields                | -       |
 | 5.3       | Key flexfields                        | -       |
 | 6         | Attachments definitions               | afattach.lct       |
-| 7         | Messages                              | -       |
+| 7         | Messages                              | afmdmsg.lct       |
 | 8         | Security information                  | -       |
 | 9         | Workflow                              | -       |
 | 10        | Users                                 | -       |
