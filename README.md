@@ -44,15 +44,25 @@ FNDLOAD
 <br>
 
 | Code      | Entity Name                           | Notes   |
-| :-:       | :--------                             | :--------------------------   |
-| 1         | **Oracle Application Object Library** | -       |
+| :-:       | :--------                             | :----   |
+| -         | **Oracle Application Object Library** | -       |
 | 1         | Concurrent program definitions        | -       |
 | 2         | Request groups                        | -       |
-| 3         | Lookup types and lookup values        | -       |
-| 4         | Flexfields setup data                 | -       |
-| 5         | Attachments definitions               | -       |
-| 6         | Messages                              | -       |
-| 7         | Security information                  | -       |
+| 3         | **Lookups**                           | -       |
+| 3.1       | Lookup types                          | -       |
+| 3.2       | Lookup values                         | -       |
+| 4         | **Profile options**                   | -       |
+| 4.1       | Profile option definitions            | -       |
+| 4.2       | profile option values                 | -       |
+| 5         | **Flexfields setup**                  | -       |
+| 5.1       | Value sets                            | -       |
+| 5.2       | Descriptive flexfields                | -       |
+| 5.3       | Key flexfields                        | -       |
+| 6         | Attachments definitions               | -       |
+| 7         | Messages                              | -       |
+| 8         | Security information                  | -       |
+| 9         | Workflow                              | -       |
+| 10        | Users                                 | -       |
 
 <br>
 
