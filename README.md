@@ -12,6 +12,19 @@ The Generic Loader is a concurrent program named FNDLOAD. The concurrent executa
 
 <br>
 
+
+## Contributors
+
+| Author | GitHub & LinkedIn account |
+| :-  | :---- |
+| Ahmed El-Demasy (Original Author) | <a href="https://github.com/demasy">Github</a> & <a href="https://www.linkedin.com/in/demasy">LinkedIn</a> |
+<br>
+
+ ### Contributing to the Oracle FNDLOAD scripts
+We welcome you to join and contribute to the Oracle FNDLOAD Scripts. If you are interested in helping please don’t hesitate to contact on an e-mail: info@egyptianprogrammers.com
+
+<br>
+
 ###### Additional Resources
 > <a href="https://docs.oracle.com/cd/E18727_01/doc.121/e12893/T174296T206863.htm">Oracle® E-Business Suite System Administrator's Guide - Configuration</a>
 
