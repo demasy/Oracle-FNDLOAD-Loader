@@ -12,6 +12,19 @@ The Generic Loader is a concurrent program named FNDLOAD. The concurrent executa
 
 <br>
 
+## **FNDLOAD Entities** 
+| Code      | Entity Name                           | Notes   |
+| :-:       | :--------                             | :--------------------------   |
+| 1         | **Oracle Application Object Library** | -       |
+| 1         | Concurrent program definitions        | -       |
+| 2         | Request groups                        | -       |
+| 3         | Lookup types and lookup values        | -       |
+| 4         | Flexfields setup data                 | -       |
+| 5         | Attachments definitions               | -       |
+| 6         | Messages                              | -       |
+| 7         | Security information                  | -       |
+
+<br>
 
 ## Contributors
 
