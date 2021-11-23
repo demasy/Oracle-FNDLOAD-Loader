@@ -24,6 +24,21 @@ The Generic Loader is a concurrent program named FNDLOAD. The concurrent executa
 
 <br>
 
+### Example
+
+###### Download
+```
+FNDLOAD
+```
+
+###### Upload
+```
+FNDLOAD
+```
+
+
+<br>
+
 ## **FNDLOAD Entities**
 
 <br>
