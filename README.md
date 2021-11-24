@@ -46,7 +46,7 @@ FNDLOAD
 | Code      | Entity Name                           | Configuration File   |
 | :-        | :--------                             | :----   |
 | -         | **Oracle Application Object Library** | -       |
-| 1         | Responsibility                        | afscursp.lct       |
+| 1         | <a href="https://github.com/demasy/Oracle-FNDLOAD-Scripts/tree/main/fndload-entities/responsibility">Responsibility</a>                        | afscursp.lct       |
 | 2         | Users                                 | -       |
 | 3         | Concurrent program definitions        | afcpprog.lct       |
 | 4         | Request groups                        | afcpreqg.lct       |
