@@ -46,6 +46,7 @@ FNDLOAD
 | Code      | Entity Name                           | Configuration File   |
 | :-:       | :--------                             | :----   |
 | -         | **Oracle Application Object Library** | -       |
+| 1         | Responsibility                        | afscursp.lct       |
 | 1         | Concurrent program definitions        | afcpprog.lct       |
 | 2         | Request groups                        | afcpreqg.lct       |
 | 3         | **Lookups**                           | aflvmlu.lct       |
@@ -63,6 +64,11 @@ FNDLOAD
 | 8         | Security information                  | -       |
 | 9         | Workflow                              | -       |
 | 10        | Users                                 | -       |
+| 10        | **Security Information**              | afsload.lct       |
+| 1         | Menu                                  |         |
+| 1         | Function                              |         |
+| 1         | Form                                  |         |
+| 1         | Entry                                 |        |
 
 <br>
 
