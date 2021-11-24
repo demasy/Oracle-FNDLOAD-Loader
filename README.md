@@ -79,6 +79,10 @@ FNDLOAD
 
 <br>
 
+## Naming Conventions
+
+<br>
+
 ## Contributors
 
 | Author | GitHub & LinkedIn account |
