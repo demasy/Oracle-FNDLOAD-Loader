@@ -56,25 +56,25 @@ FNDLOAD
 | 6         | <a href="#">Attachments definitions</a>               | afattach.lct       |
 | 7         | <a href="#">Messages</a>                              | afmdmsg.lct       |
 | 8         | **Lookups**                           | aflvmlu.lct       |
-| 8.1       | Lookup types                          | -       |
-| 8.2       | Lookup values                         | -       |
+| 8.1       | <a href="#">Lookup types</a>                           | -       |
+| 8.2       | <a href="#">Lookup values</a>                         | -       |
 | 9         | **Profile options**                   | afscprof.lct       |
-| 10.1      | Profile option definitions            | -       |
-| 10.2      | profile option values                 | -       |
+| 10.1      | <a href="#">Profile option definitions</a>            | -       |
+| 10.2      | <a href="#">profile option values</a>                 | -       |
 | 11        | **Flexfields setup**                  | afffload.lct       |
-| 11.1      | Value sets                            | -       |
-| 11.2      | Descriptive flexfields                | -       |
-| 11.3      | Key flexfields                        | -       |
+| 11.1      | <a href="#">Value sets</a>                            | -       |
+| 11.2      | <a href="#">Descriptive flexfields</a>                | -       |
+| 11.3      | <a href="#">Key flexfields</a>                        | -       |
 | 12        | **Security Information**              | afsload.lct       |
-| 12.1      | Menu                                  | -|
-| 12.2      | Function                              | -|
-| 12.3      | Form                                  | -|
-| 12.4      | Entry                                 | -|
+| 12.1      | <a href="#">Menu</a>                                  | -|
+| 12.2      | <a href="#">Function</a>                              | -|
+| 12.3      | <a href="#">Form</a>                                 | -|
+| 12.4      | <a href="#">Entry</a>                                | -|
 | 13        | **XDO Files**                         | -|
-| 13.1      | Data Definitions                      | -|
-| 13.2      | XML Template                          | -|
+| 13.1      | <a href="#">Data Definitions</a>                      | -|
+| 13.2      | <a href="#">XML Template</a>                          | -|
 | 14        | **General**                           | -|
-| 14.1      | Workflow                              | -|
+| 14.1      | <a href="#">Workflow</a>                              | -|
 
 
 <br>
