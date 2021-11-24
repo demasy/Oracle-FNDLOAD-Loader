@@ -47,28 +47,28 @@ FNDLOAD
 | :-:       | :--------                             | :----   |
 | -         | **Oracle Application Object Library** | -       |
 | 1         | Responsibility                        | afscursp.lct       |
-| 10        | Users                                 | -       |
-| 1         | Concurrent program definitions        | afcpprog.lct       |
-| 2         | Request groups                        | afcpreqg.lct       |
-| 3         | **Lookups**                           | aflvmlu.lct       |
-| 3.1       | Lookup types                          | -       |
-| 3.2       | Lookup values                         | -       |
-| 4         | **Profile options**                   | afscprof.lct       |
-| 4.1       | Profile option definitions            | -       |
-| 4.2       | profile option values                 | -       |
-| 5         | **Flexfields setup**                  | afffload.lct       |
-| 5.1       | Value sets                            | -       |
-| 5.2       | Descriptive flexfields                | -       |
-| 5.3       | Key flexfields                        | -       |
-| 6         | Attachments definitions               | afattach.lct       |
-| 7         | Messages                              | afmdmsg.lct       |
-| 10        | **Security Information**              | afsload.lct       |
-| 1         | Menu                                  | -|
-| 1         | Function                              | -|
-| 1         | Form                                  | -|
-| 1         | Entry                                 | -|
-| 10        | **General**                           | -|
-| 9         | Workflow                              | -|
+| 2         | Users                                 | -       |
+| 3         | Concurrent program definitions        | afcpprog.lct       |
+| 4         | Request groups                        | afcpreqg.lct       |
+| 5         | **Lookups**                           | aflvmlu.lct       |
+| 5.1       | Lookup types                          | -       |
+| 5.2       | Lookup values                         | -       |
+| 6         | **Profile options**                   | afscprof.lct       |
+| 6.1       | Profile option definitions            | -       |
+| 6.2       | profile option values                 | -       |
+| 7         | **Flexfields setup**                  | afffload.lct       |
+| 8.1       | Value sets                            | -       |
+| 8.2       | Descriptive flexfields                | -       |
+| 8.3       | Key flexfields                        | -       |
+| 9         | Attachments definitions               | afattach.lct       |
+| 10        | Messages                              | afmdmsg.lct       |
+| 11        | **Security Information**              | afsload.lct       |
+| 11.1      | Menu                                  | -|
+| 11.2      | Function                              | -|
+| 11.3      | Form                                  | -|
+| 11.4      | Entry                                 | -|
+| 12        | **General**                           | -|
+| 12.1      | Workflow                              | -|
 
 
 
