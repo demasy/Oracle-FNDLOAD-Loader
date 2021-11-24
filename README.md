@@ -47,6 +47,7 @@ FNDLOAD
 | :-:       | :--------                             | :----   |
 | -         | **Oracle Application Object Library** | -       |
 | 1         | Responsibility                        | afscursp.lct       |
+| 10        | Users                                 | -       |
 | 1         | Concurrent program definitions        | afcpprog.lct       |
 | 2         | Request groups                        | afcpreqg.lct       |
 | 3         | **Lookups**                           | aflvmlu.lct       |
@@ -61,14 +62,15 @@ FNDLOAD
 | 5.3       | Key flexfields                        | -       |
 | 6         | Attachments definitions               | afattach.lct       |
 | 7         | Messages                              | afmdmsg.lct       |
-| 8         | Security information                  | -       |
-| 9         | Workflow                              | -       |
-| 10        | Users                                 | -       |
 | 10        | **Security Information**              | afsload.lct       |
-| 1         | Menu                                  |         |
-| 1         | Function                              |         |
-| 1         | Form                                  |         |
-| 1         | Entry                                 |        |
+| 1         | Menu                                  | -|
+| 1         | Function                              | -|
+| 1         | Form                                  | -|
+| 1         | Entry                                 | -|
+| 10        | **General**                           | -|
+| 9         | Workflow                              | -|
+
+
 
 <br>
 
