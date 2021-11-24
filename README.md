@@ -44,7 +44,7 @@ FNDLOAD
 <br>
 
 | Code      | Entity Name                           | Configuration File   |
-| :-:       | :--------                             | :----   |
+| :-        | :--------                             | :----   |
 | -         | **Oracle Application Object Library** | -       |
 | 1         | Responsibility                        | afscursp.lct       |
 | 2         | Users                                 | -       |
