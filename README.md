@@ -41,6 +41,21 @@ FNDLOAD
 
 ## **FNDLOAD Entities**
 
+
+- Oracle Application Object Library (FND)
+  * Security Information
+  * Concurrent Programs
+  * Application Lookups
+  * Application Messages
+  * Profile Options
+  * Flexfields
+- Alerts
+- Attachments
+- AME
+- XDO
+- SOA Gateway
+- Workflow
+
 <br>
 
 | Code      | Entity Name                           | Configuration File   |
