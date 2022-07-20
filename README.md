@@ -74,10 +74,10 @@ FNDLOAD
   * Rules
     * Rule Definitions
     * Rule Usages
-- XDO
+- **XDO**
   * Data Definitions
   * XML Template
-- Generic
+- **Generic**
   * Workflow
   * SOA Gateway
 
