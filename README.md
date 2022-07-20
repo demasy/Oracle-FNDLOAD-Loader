@@ -41,13 +41,21 @@ FNDLOAD
 
 ## **FNDLOAD Entities**
 
-
 - Oracle AOL Configuration
   * Concurrent Programs
-  * Application Lookups
-  * Application Messages
+  * Request Groups
+  * Lookups
+    * Lookup Types
+    * Lookup Values
   * Profile Options
-  * Flexfields
+    * Profile options definition
+    * profile option values
+  * Flexfields setup
+    * Key flexfields
+    * Descriptive flexfields 
+    * Value sets
+  * Attachments setup
+  * Messages Dictionary
   * Security Information
     * Menu
     * Function
@@ -55,10 +63,22 @@ FNDLOAD
     * Entry
 - Alerts
 - Attachments
-- AME
+- Approvals Management Engine (AME)
+  * Transaction Types
+  * Attributes
+  * Attribute Definitions
+  * Attribute Usages
+  * Conditions
+  * Approver Groups
+    * Approver Groups Definitions
+    * Approval Group Configuration
+  * Rules
+    * Rule Definitions
+    * Rule Usages
 - XDO
-- SOA Gateway
-- Workflow
+- Generic
+  * Workflow
+  * SOA Gateway
 
 <br>
 
