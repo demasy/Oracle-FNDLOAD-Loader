@@ -64,10 +64,10 @@ FNDLOAD
 
 | Code      | Entity Name                           | Configuration File   |
 | :-        | :--------                             | :----   |
-| 1.3      | <a href="#">Menu</a>                                  | afsload.lct|
-| 1.4      | <a href="#">Function</a>                              | afsload.lct|
-| 1.`5      | <a href="#">Form</a>                                 | afsload.lct|
-| 1.6      | <a href="#">Entry</a>                                | afsload.lct|
+| 1.1      | <a href="#">Menu</a>                                  | afsload.lct|
+| 1.2      | <a href="#">Function</a>                              | afsload.lct|
+| 1.3      | <a href="#">Form</a>                                 | afsload.lct|
+| 1.4      | <a href="#">Entry</a>                                | afsload.lct|
 
 
 <br>
