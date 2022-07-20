@@ -41,7 +41,7 @@ FNDLOAD
 
 ## **FNDLOAD Entities**
 
-- Oracle AOL Configuration
+- **Oracle AOL Configuration**
   * Concurrent Programs
   * Request Groups
   * Lookups
@@ -61,9 +61,8 @@ FNDLOAD
     * Function
     * Form
     * Entry
-- Alerts
-- Attachments
-- Approvals Management Engine (AME)
+- **Alerts**
+- **Approvals Management Engine (AME)**
   * Transaction Types
   * Attributes
   * Attribute Definitions
@@ -76,6 +75,8 @@ FNDLOAD
     * Rule Definitions
     * Rule Usages
 - XDO
+  * Data Definitions
+  * XML Template
 - Generic
   * Workflow
   * SOA Gateway
