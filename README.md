@@ -58,6 +58,23 @@ FNDLOAD
 
 <br>
 
+
+
+### Security Information
+
+| Code      | Entity Name                           | Configuration File   |
+| :-        | :--------                             | :----   |
+| 1         | <a href="https://github.com/demasy/Oracle-FNDLOAD-Scripts/tree/main/fndload-entities/responsibility">Responsibility</a>                        | afscursp.lct       |
+| 2         | <a href="https://github.com/demasy/Oracle-FNDLOAD-Scripts/tree/main/fndload-entities/users">Users</a>                                 | afscursp.lct       |
+| 12.1      | <a href="#">Menu</a>                                  | -|
+| 12.2      | <a href="#">Function</a>                              | -|
+| 12.3      | <a href="#">Form</a>                                 | -|
+| 12.4      | <a href="#">Entry</a>                                | -|
+
+
+<br>
+
+
 | Code      | Entity Name                           | Configuration File   |
 | :-        | :--------                             | :----   |
 | -         | **Oracle Application Object Library** | -       |
