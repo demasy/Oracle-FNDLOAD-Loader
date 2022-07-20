@@ -5,7 +5,7 @@
 
 ## Find Entity: SQL Statement
 
-```
+```sql
 SELECT FR.RESPONSIBILITY_ID RESPONSIBILITY_ID,
        FR.RESPONSIBILITY_KEY RESPONSIBILITY_KEY
   FROM FND_RESPONSIBILITY FR
@@ -19,11 +19,11 @@ Example:
 > RESPONSIBILITY_KEY: **XXD_RESPONSIBILITY_CODE**
 
 ###### Download
-```
+```shell
 FNDLOAD apps/<$APPS_PWD> 0 Y DOWNLOAD $FND_TOP/patch/115/import/afscursp.lct resp_XXD_RESPONSIBILITY_CODE.ldt FND_RESPONSIBILITY RESP_KEY="XXD_RESPONSIBILITY_CODE"
 ```
 
 ###### Upload
-```
+```shell
 FNDLOAD apps/<$APPS_PWD> 0 Y UPLOAD $FND_TOP/patch/115/import/afscursp.lct resp_XXD_RESPONSIBILITY_CODE.ldt
 ```
