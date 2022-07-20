@@ -42,13 +42,17 @@ FNDLOAD
 ## **FNDLOAD Entities**
 
 
-- Oracle Application Object Library (FND)
-  * Security Information
+- Oracle AOL Configuration
   * Concurrent Programs
   * Application Lookups
   * Application Messages
   * Profile Options
   * Flexfields
+  * Security Information
+    * Menu
+    * Function
+    * Form
+    * Entry
 - Alerts
 - Attachments
 - AME
@@ -71,6 +75,26 @@ FNDLOAD
 
 
 <br>
+
+### Oracle AOL Configuration
+
+| Code      | Entity Name                           | Configuration File   |
+| :-        | :--------                             | :----   |
+| 1.1      | <a href="#">Menu</a>                                  | afsload.lct|
+
+
+
+
+
+### Generic
+
+| Code      | Entity Name                           | Configuration File   |
+| :-        | :--------                             | :----   |
+| 1.1      | <a href="#">Menu</a>                                  | afsload.lct|
+
+
+<br>
+
 
 
 | Code      | Entity Name                           | Configuration File   |
