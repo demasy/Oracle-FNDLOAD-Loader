@@ -62,7 +62,7 @@ FNDLOAD
 | :-        | :--------                             | :----   |
 | -         | **Oracle Application Object Library** | -       |
 | 1         | <a href="https://github.com/demasy/Oracle-FNDLOAD-Scripts/tree/main/fndload-entities/responsibility">Responsibility</a>                        | afscursp.lct       |
-| 2         | <a href="https://github.com/demasy/Oracle-FNDLOAD-Scripts/tree/main/fndload-entities/users">Users</a>                                 | -       |
+| 2         | <a href="https://github.com/demasy/Oracle-FNDLOAD-Scripts/tree/main/fndload-entities/users">Users</a>                                 | afscursp.lct       |
 | 3         | <a href="#"> Concurrent program definitions</a>         | afcpprog.lct       |
 | 4         | <a href="#">Request groups</a>                         | afcpreqg.lct       |
 | 5.1       | <a href="#">Request Set</a>                            | -|
