@@ -4,7 +4,7 @@ The Generic Loader (FNDLOAD) is a concurrent program that can move Oracle E-Busi
 
 <br>
 
-## FNDLOAD Syntax 
+## FNDLOAD Executable Syntax 
 
 The Generic Loader is a concurrent program named FNDLOAD. The concurrent executable takes the following parameters:
 
@@ -60,16 +60,14 @@ FNDLOAD
 
 
 
-### Security Information
+### Security Configuration
 
 | Code      | Entity Name                           | Configuration File   |
 | :-        | :--------                             | :----   |
-| 1.1         | <a href="https://github.com/demasy/Oracle-FNDLOAD-Scripts/tree/main/fndload-entities/users">Users</a>                                 | afscursp.lct       |
-| 1.2         | <a href="https://github.com/demasy/Oracle-FNDLOAD-Scripts/tree/main/fndload-entities/responsibility">Responsibility</a>                        | afscursp.lct       |
-| 1.3      | <a href="#">Menu</a>                                  | -|
-| 1.4      | <a href="#">Function</a>                              | -|
-| 1.`5      | <a href="#">Form</a>                                 | -|
-| 1.6      | <a href="#">Entry</a>                                | -|
+| 1.3      | <a href="#">Menu</a>                                  | afsload.lct|
+| 1.4      | <a href="#">Function</a>                              | afsload.lct|
+| 1.`5      | <a href="#">Form</a>                                 | afsload.lct|
+| 1.6      | <a href="#">Entry</a>                                | afsload.lct|
 
 
 <br>
