@@ -1,9 +1,9 @@
 # Naming Conventions
 
-##### FNDLOAD Syntax 
-> **FNDLOAD apps/{APPS_PASSWORD} 0 Y  {mode} {configfile} {datafile} {entity} [optional {param} {param}]**
-> 
-This is my recommended naming conventions for the data file name.
+##### FNDLOAD File Name
+> {prefix_}{Enitiy Name}[{_suffix}]
+
+This is my recommendation for a naming convention for the data file name.
 
  | SEQ       | Type                   | Name                           | Prefix | Suffix | Example |
  | :-:       | :----------            | :----                          | :---   | :---   | :----   |
@@ -26,5 +26,5 @@ This is my recommended naming conventions for the data file name.
  | 15        | Definition & Associated Template | XXDL_DATA_DEFINITION    | ddt_   |   -     | ddt_XXDL_DATA_DEFINITION.ldt | 
  | 16        | Data Template - Data Source XML File | XXDL_DATA_TEMPLATE| dtds_  |   -     | dtds_XXDL_DATA_TEMPLATE.ldt |  
  | 17        | Workflow               | XXDLWF                         | wf_    |   -     | wf_XXDLWF.wft |
- | 18        | Users                  | XXDL_DEMASY_LABS               | u_     |   -     | u_DEMASY_LABS.ldt | 
+ | 18        | Users                  | XXDL_DEMASY_LABS               | u_     |   -     | user_DEMASY_LABS.ldt | 
  
