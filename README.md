@@ -178,4 +178,4 @@ We welcome you to join and contribute to the Oracle FNDLOAD Scripts. If you are 
 <br>
 
 ###### Suggestions & Issues
-> If you find any issue or have a great idea in mind please create an issue on <a href="https://github.com/demasy/Oracle-FNDLOAD-Scripts/issues">GitHub</a>.
+> If you find any issue or have a great idea in mind please create an issue on <a href="https://github.com/demasy/Oracle-FNDLOAD-Loader/issues">GitHub</a>.
