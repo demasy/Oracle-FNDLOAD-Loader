@@ -61,8 +61,8 @@ FNDLOAD
     * Function
     * Form
     * Entry
-- **Alerts**
-- **Approvals Management Engine (AME)**
+- **<a href="https://github.com/demasy/Oracle-FNDLOAD-Loader#alerts">Alerts</a>**
+- **<a href="https://github.com/demasy/Oracle-FNDLOAD-Loader#approvals-management-engine-ame">Approvals Management Engine (AME)</a>**
   * Transaction Types
   * Attributes
   * Attribute Definitions
