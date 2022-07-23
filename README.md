@@ -82,7 +82,6 @@ FNDLOAD
   * Users
   * Request Set
   * Request Set Link
-  * Alert
   * Workflow
   * SOA Gateway
 
