@@ -51,7 +51,7 @@ FNDLOAD
     * Profile options definition
     * profile option values
   * Flexfields setup
-    * Key flexfields
+    * Key flexfields Structures
     * Descriptive flexfields 
     * Value sets
   * Attachments setup
