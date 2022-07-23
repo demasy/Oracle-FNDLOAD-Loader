@@ -91,17 +91,17 @@ FNDLOAD
 
 | Code   | Entity Name                           | Configuration File   |
 | :-     | :--------                             | :----   |
-| 1.1    | <a href="#">Concurrent Programs</a>                  | afsload.lct|
-| 1.2    | <a href="#">Request Groups</a>                  | afsload.lct|
-| 1.3    | <a href="#">Lookup: Lookup Types</a>                  | afsload.lct|
-| 1.4    | <a href="#">Lookup: Lookup Values</a>                  | afsload.lct|
-| 1.5    | <a href="#">Profile Option: Definition</a>                  | afsload.lct|
-| 1.6    | <a href="#">Profile Option: Values</a>                  | afsload.lct|
-| 1.7    | <a href="#">Flexfield: Key flexfields</a>                  | afsload.lct|
-| 1.8    | <a href="#">Flexfield: Descriptive flexfields</a>                  | afsload.lct|
-| 1.9    | <a href="#">Flexfield: Value sets</a>                  | afsload.lct|
-| 1.10   | <a href="#">Attachments</a>                  | afsload.lct|
-| 1.11   | <a href="#">Messages</a>                  | afsload.lct|
+| 1.1    | <a href="#">Concurrent Programs</a>                  | afcpprog.lct|
+| 1.2    | <a href="#">Request Groups</a>                  | afcpreqg.lct|
+| 1.3    | <a href="#">Lookup: Lookup Types</a>                  | aflvmlu.lct|
+| 1.4    | <a href="#">Lookup: Lookup Values</a>                  | aflvmlu.lct|
+| 1.5    | <a href="#">Profile Option: Definition</a>                  | afscprof.lct|
+| 1.6    | <a href="#">Profile Option: Values</a>                  | afscprof.lct|
+| 1.7    | <a href="#">Flexfield: Key flexfields</a>                  | afffload.lct|
+| 1.8    | <a href="#">Flexfield: Descriptive flexfields</a>                  | afffload.lct|
+| 1.9    | <a href="#">Flexfield: Value sets</a>                  | afffload.lct|
+| 1.10   | <a href="#">Attachments</a>                  | afattach.lct|
+| 1.11   | <a href="#">Messages</a>                  | afmdmsg.lct|
 | 1.12   | <a href="#">Security: Menu</a>                  | afsload.lct|
 | 1.13   | <a href="#">Security: Function</a>                  | afsload.lct|
 | 1.14   | <a href="#">Security: Form</a>                  | afsload.lct|
@@ -149,8 +149,8 @@ FNDLOAD
 
 | Code   | Entity Name                           | Configuration File   |
 | :-     | :--------                             | :----   |
-| 1.1    | <a href="#">Responsibility</a>        | afsload.lct|
-| 1.1    | <a href="#">Users</a>                 | afsload.lct|
+| 1.1    | <a href="#">Responsibility</a>        | afscursp.lct|
+| 1.1    | <a href="#">Users</a>                 | afscursp.lct|
 | 1.1    | <a href="#">Request Set</a>           | afsload.lct|
 | 1.1    | <a href="#">Request Set Link</a>      | afsload.lct|
 | 1.1    | <a href="#">Workflow</a>              | afsload.lct|
