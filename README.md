@@ -163,11 +163,6 @@ FNDLOAD
 | 15        | **General**                           | -|
 | 15.1      | <a href="#">Workflow</a>                              | -|
 
-
-<br>
-
-## Naming Conventions
-
 <br>
 
 ## Contributors
