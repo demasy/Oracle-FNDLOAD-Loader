@@ -85,33 +85,25 @@ FNDLOAD
 
 
 
-### Security Configuration
+### Oracle AOL Configuration 
 
-| Code      | Entity Name                           | Configuration File   |
-| :-        | :--------                             | :----   |
-| 1.1      | <a href="#">Menu</a>                                  | afsload.lct|
-| 1.2      | <a href="#">Function</a>                              | afsload.lct|
-| 1.3      | <a href="#">Form</a>                                 | afsload.lct|
-| 1.4      | <a href="#">Entry</a>                                | afsload.lct|
-
-
-<br>
-
-### Oracle AOL Configuration
-
-| Code      | Entity Name                           | Configuration File   |
-| :-        | :--------                             | :----   |
-| 1.1      | <a href="#">Menu</a>                                  | afsload.lct|
-
-
-
-
-
-### Generic
-
-| Code      | Entity Name                           | Configuration File   |
-| :-        | :--------                             | :----   |
-| 1.1      | <a href="#">Menu</a>                                  | afsload.lct|
+| Code   | Entity Name                           | Configuration File   |
+| :-     | :--------                             | :----   |
+| 1.1    | <a href="#">Concurrent Programs</a>                  | afsload.lct|
+| 1.1    | <a href="#">Request Groups</a>                  | afsload.lct|
+| 1.1    | <a href="#">Lookup: Lookup Types</a>                  | afsload.lct|
+| 1.1    | <a href="#">Lookup: Lookup Values</a>                  | afsload.lct|
+| 1.1    | <a href="#">Profile Option: Definition</a>                  | afsload.lct|
+| 1.1    | <a href="#">Profile Option: Values</a>                  | afsload.lct|
+| 1.1    | <a href="#">Flexfield: Key flexfields</a>                  | afsload.lct|
+| 1.1    | <a href="#">Flexfield: Descriptive flexfields</a>                  | afsload.lct|
+| 1.1    | <a href="#">Flexfield: Value sets</a>                  | afsload.lct|
+| 1.1    | <a href="#">Attachments</a>                  | afsload.lct|
+| 1.1    | <a href="#">Messages</a>                  | afsload.lct|
+| 1.1    | <a href="#">Security: Menu</a>                  | afsload.lct|
+| 1.1    | <a href="#">Security: Function</a>                  | afsload.lct|
+| 1.1    | <a href="#">Security: Form</a>                  | afsload.lct|
+| 1.1    | <a href="#">Security: Entry</a>                  | afsload.lct|
 
 
 <br>
