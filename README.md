@@ -78,12 +78,15 @@ FNDLOAD
   * Data Definitions
   * XML Template
 - **Generic**
+  * Responsibility
+  * Users
+  * Request Set
+  * Request Set Link
+  * Alert
   * Workflow
   * SOA Gateway
 
 <br>
-
-
 
 ### Oracle AOL Configuration 
 
@@ -105,57 +108,8 @@ FNDLOAD
 | 1.14   | <a href="#">Security: Form</a>                  | afsload.lct|
 | 1.15   | <a href="#">Security: Entry</a>                  | afsload.lct|
 
-
 <br>
 
-
-
-| Code      | Entity Name                           | Configuration File   |
-| :-        | :--------                             | :----   |
-| -         | **Oracle Application Object Library** | -       |
-| 1         | <a href="https://github.com/demasy/Oracle-FNDLOAD-Scripts/tree/main/fndload-entities/responsibility">Responsibility</a>                        | afscursp.lct       |
-| 2         | <a href="https://github.com/demasy/Oracle-FNDLOAD-Scripts/tree/main/fndload-entities/users">Users</a>                                 | afscursp.lct       |
-| 3         | <a href="#"> Concurrent program definitions</a>         | afcpprog.lct       |
-| 4         | <a href="#">Request groups</a>                         | afcpreqg.lct       |
-| 5.1       | <a href="#">Request Set</a>                            | -|
-| 5.2       | <a href="#">Request Set Link </a>                     | -|
-| 5.3       | <a href="#">Alert</a>                                 | -|
-| 6         | <a href="#">Attachments definitions</a>               | afattach.lct       |
-| 7         | <a href="#">Messages</a>                              | afmdmsg.lct       |
-| 8         | **Lookups**                           | aflvmlu.lct       |
-| 8.1       | <a href="#">Lookup types</a>                           | -       |
-| 8.2       | <a href="#">Lookup values</a>                         | -       |
-| 9         | **Profile options**                   | afscprof.lct       |
-| 10.1      | <a href="#">Profile option definitions</a>            | -       |
-| 10.2      | <a href="#">profile option values</a>                 | -       |
-| 11        | **Flexfields setup**                  | afffload.lct       |
-| 11.1      | <a href="#">Value sets</a>                            | -       |
-| 11.2      | <a href="#">Descriptive flexfields</a>                | -       |
-| 11.3      | <a href="#">Key flexfields</a>                        | -       |
-| 12        | **Security Information**              | afsload.lct       |
-| 12.1      | <a href="#">Menu</a>                                  | -|
-| 12.2      | <a href="#">Function</a>                              | -|
-| 12.3      | <a href="#">Form</a>                                 | -|
-| 12.4      | <a href="#">Entry</a>                                | -|
-| 13        | **XDO Files**                         | -|
-| 13.1      | <a href="#">Data Definitions</a>                      | -|
-| 13.2      | <a href="#">XML Template</a>                          | -|
-| 14        | **AME**                         | -|
-| 14.1      | <a href="#">Transaction Types</a>                      | -|
-| 14.2      | <a href="#">Attributes</a> | -|
-| 14.2.1    | <a href="#">Attribute Definitions</a> | -|
-| 14.2.2    | <a href="#">Attribute Usages</a> | -|
-| 14.3      | <a href="#">Conditions</a> | -|
-| 14.4      | <a href="#">Approver Groups</a> | -|
-| 14.4.1      | <a href="#">Definitions</a> | -|
-| 14.4.2      | <a href="#">Approval Group Config</a> | -|
-| 14.5      | <a href="#">Rules</a> | -|
-| 14.5.1      | <a href="#">Rule Definitions</a> | -|
-| 14.5.2    | <a href="#">Rule Usages</a> | -|
-| 15        | **General**                           | -|
-| 15.1      | <a href="#">Workflow</a>                              | -|
-
-<br>
 
 ## Contributors
 
