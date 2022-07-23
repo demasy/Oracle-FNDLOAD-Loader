@@ -82,8 +82,9 @@ FNDLOAD
   * Users
   * Request Set
   * Request Set Link
-  * Workflow
   * SOA Gateway
+- Others
+  * **<a href="https://github.com/demasy/Oracle-FNDLOAD-Loader#wfload">Workflow</a>** 
 
 <br>
 
