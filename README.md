@@ -77,12 +77,14 @@ FNDLOAD
 - **<a href="https://github.com/demasy/Oracle-FNDLOAD-Loader#xdo">XDO</a>**
   * Data Definitions
   * XML Template
+  * RTF Template
 - **<a href="https://github.com/demasy/Oracle-FNDLOAD-Loader#generic">Generic</a>**
   * Responsibility
   * Users
   * Request Set
   * Request Set Link
   * SOA Gateway
+  * Forms Personalizations
 - Others
   * **<a href="https://github.com/demasy/Oracle-FNDLOAD-Loader#wfload">Workflow</a>** 
 
