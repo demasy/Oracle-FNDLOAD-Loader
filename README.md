@@ -113,7 +113,7 @@ FNDLOAD
 
 | Code   | Entity Name                           | Configuration File   |
 | :-     | :--------                             | :----   |
-| 1.1    | <a href="#">Alert</a>                 | afsload.lct|
+| 1.1    | <a href="#">Alert</a>                 | alr.lct|
 
 <br>
 
@@ -151,10 +151,20 @@ FNDLOAD
 | :-     | :--------                             | :----   |
 | 1.1    | <a href="#">Responsibility</a>        | afscursp.lct|
 | 1.1    | <a href="#">Users</a>                 | afscursp.lct|
-| 1.1    | <a href="#">Request Set</a>           | afsload.lct|
-| 1.1    | <a href="#">Request Set Link</a>      | afsload.lct|
-| 1.1    | <a href="#">Workflow</a>              | afsload.lct|
+| 1.1    | <a href="#">Request Set</a>           | afcprset.lct|
+| 1.1    | <a href="#">Request Set Link</a>      | afcprset.lct|
 | 1.1    | <a href="#">SOA Gateway</a>           | afsload.lct|
+
+<br>
+
+
+
+### WFLOAD
+
+| Code   | Entity Name                           | 
+| :-     | :--------                             | 
+| 1.1    | <a href="#">Workflow</a>              |
+
 
 <br>
 
