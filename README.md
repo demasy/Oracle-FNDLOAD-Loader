@@ -74,10 +74,10 @@ FNDLOAD
   * Rules
     * Rule Definitions
     * Rule Usages
-- **XDO**
+- **<a href="https://github.com/demasy/Oracle-FNDLOAD-Loader#xdo">XDO</a>**
   * Data Definitions
   * XML Template
-- **Generic**
+- **<a href="https://github.com/demasy/Oracle-FNDLOAD-Loader#generic">Generic</a>**
   * Responsibility
   * Users
   * Request Set
