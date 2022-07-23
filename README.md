@@ -41,7 +41,7 @@ FNDLOAD
 
 ## **FNDLOAD Entities**
 
-- **<a href="#https://github.com/demasy/Oracle-FNDLOAD-Loader#oracle-aol-configuration">Oracle AOL Configuration</a>**
+- **<a href="https://github.com/demasy/Oracle-FNDLOAD-Loader#oracle-aol-configuration">Oracle AOL Configuration</a>**
   * Concurrent Programs
   * Request Groups
   * Lookups
