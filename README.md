@@ -135,6 +135,29 @@ FNDLOAD
 <br>
 
 
+### XDO
+
+| Code   | Entity Name                           | Configuration File   |
+| :-     | :--------                             | :----   |
+| 1.1    | <a href="#">Data Definitions</a>                 | afsload.lct|
+| 1.1    | <a href="#">XML Template</a>                 | afsload.lct
+
+<br>
+
+
+### Generic
+
+| Code   | Entity Name                           | Configuration File   |
+| :-     | :--------                             | :----   |
+| 1.1    | <a href="#">Responsibility</a>        | afsload.lct|
+| 1.1    | <a href="#">Users</a>                 | afsload.lct|
+| 1.1    | <a href="#">Request Set</a>           | afsload.lct|
+| 1.1    | <a href="#">Request Set Link</a>      | afsload.lct|
+| 1.1    | <a href="#">Workflow</a>              | afsload.lct|
+| 1.1    | <a href="#">SOA Gateway</a>           | afsload.lct|
+
+<br>
+
 
 ## Contributors
 
