@@ -109,6 +109,32 @@ FNDLOAD
 
 <br>
 
+### Alerts
+
+| Code   | Entity Name                           | Configuration File   |
+| :-     | :--------                             | :----   |
+| 1.1    | <a href="#">Alert</a>                 | afsload.lct|
+
+<br>
+
+
+### Approvals Management Engine (AME)
+
+| Code   | Entity Name                           | Configuration File   |
+| :-     | :--------                             | :----   |
+| 1.1    | <a href="#">Transaction Types</a>                 | afsload.lct|
+| 1.1    | <a href="#">Attribute: Definitions</a>                 | afsload.lct|
+| 1.1    | <a href="#">Attribute: Usages</a>                 | afsload.lct|
+| 1.1    | <a href="#">Conditions</a>                 | afsload.lct|
+| 1.1    | <a href="#">Approver Group: Definitions</a>                 | afsload.lct|
+| 1.1    | <a href="#">Approver Group: Configuration</a>                 | afsload.lct|
+| 1.1    | <a href="#">Rule: Definitions</a>                 | afsload.lct|
+| 1.1    | <a href="#">Rule: Usages</a>                 | afsload.lct|
+
+
+<br>
+
+
 
 ## Contributors
 
