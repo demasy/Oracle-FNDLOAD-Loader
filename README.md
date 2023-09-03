@@ -86,7 +86,8 @@ FNDLOAD
   * SOA Gateway
   * Forms Personalizations
 - Others
-  * **<a href="https://github.com/demasy/Oracle-FNDLOAD-Loader#wfload">Workflow</a>** 
+  * **<a href="https://github.com/demasy/Oracle-FNDLOAD-Loader#wfload">Workflow</a>**
+  * Web ADI 
 
 <br>
 
