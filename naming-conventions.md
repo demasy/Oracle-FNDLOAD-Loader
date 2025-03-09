@@ -1,8 +1,21 @@
 # Naming Conventions
 
 ##### FNDLOAD File Name
-> {prefix_}{Enitiy Name}[{_suffix}]
+> {prefix_}{Enitiy Name}[{_suffix}]{_Language Code}
 
+<br>
+
+##### How to get the Language Code?
+``` SQL
+  SELECT FL.NLS_LANGUAGE LANGUAGE, LOWER (FL.LANGUAGE_CODE) LANGUAGE_CODE
+    FROM FND_LANGUAGES FL
+   WHERE 1 = 1 AND UPPER (FL.INSTALLED_FLAG) IN ('B', 'I')
+ORDER BY FL.INSTALLED_FLAG
+```
+
+<br>
+
+ 
 This is my recommendation for a naming convention for the data file name.
 
  | SEQ       | Type                   | Name                           | Prefix | Suffix | Example |
