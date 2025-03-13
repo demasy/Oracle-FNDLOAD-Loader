@@ -117,7 +117,7 @@ FNDLOAD apps/password 0 Y UPLOAD $FND_TOP/patch/115/import/<configfile>.lct <dat
 
 | Code   | Entity Name                           | Configuration File   |
 | :-     | :--------                             | :----   |
-| 2.1    | <a href="#">Alert</a>                 | alr.lct|
+| 2.1    | <a href="#">Alert</a>                 | $ALR_TOP/patch/115/import/**alr**.lct|
 
 <br>
 
