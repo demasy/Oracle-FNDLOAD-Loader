@@ -64,6 +64,19 @@ FNDLOAD utilizes two primary types of files to transfer configurations between O
 
 <br>
 
+ #### Examples
+
+<br>
+
+| Entity Name                           | Example Data File (.ldt)   |
+| :--------                             | :----   |
+| Concurrent Programs                   | program.ldt |
+| Menus                                 | menu.ldt |
+| Profile Options                       | profile.ldt |
+| Workflow                              | workflow.ldt|
+
+<br>
+
 ## FNDLOAD Executable Syntax 
 
 The Generic Loader is a concurrent program called FNDLOAD. This concurrent executable accepts the following parameters:
