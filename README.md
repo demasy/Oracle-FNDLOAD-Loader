@@ -6,49 +6,6 @@ The **FNDLOAD** utility utilizes a **configuration file (.lct)** that defines th
 
 <br>
 
-## How FNDLOAD Works?
-FNDLOAD functions in two primary modes:
-
-### Download Mode:
-This mode extracts data from an Oracle EBS database and saves it in a structured text file with a .ldt extension.
-
-### Upload Mode:
-FNDLOAD reads a previously extracted .ldt file and loads the configuration into a target Oracle EBS database in this mode.
-
-<br>
- 
-This process guarantees automated migrations of menus, responsibilities, profile options, concurrent programs, workflows, and more, ensuring consistency and error-free results.
-
-<br>
-<p align="center">
- <img src="https://github.com/demasy/Oracle-FNDLOAD-Loader/blob/main/src/resources/images/how-fndload-works-diagram.png">
-</p>
-
-<br>
-
-FNDLOAD DOWNLOAD generates a .ldt file from Oracle E-Business Suite (EBS).
-
-``` shell
-FNDLOAD apps/password O Y DOWNLOAD $FND_TOP/patch/115/import/afcpprog.lct prog_XXDL_PROGRAM_NAME_us.ldt PROGRAM APPLICATION_SHORT_NAME="XXDL" CONCURRENT_PROGRAM_NAME="XXDL_PROGRAM_NAME"
-```
-<br>
-
-Transfer the .ldt file to the target environment.
-
-``` shell
-scp prog_XXDL_PROGRAM_NAME_us.ldt applmgr@target_server:/u01/demasy/src/migrations/fndload/program/
-```
-
-<br>
-
-The command FNDLOAD UPLOAD imports data into the target instance.
-
-``` shell
-FNDLOAD apps/password 0 Y UPLOAD $FND_TOP/patch/115/import/prog_XXDL_PROGRAM_NAME_us.lct program.ldt
-```
-
-<br>
-
 ## Understanding FNDLOAD File Types
 FNDLOAD utilizes two primary types of files to transfer configurations between Oracle EBS environments:
 
@@ -96,6 +53,49 @@ FNDLOAD utilizes two primary types of files to transfer configurations between O
 | Menus                                 | menu.ldt |
 | Profile Options                       | profile.ldt |
 | Workflow                              | workflow.ldt|
+
+<br>
+
+## How FNDLOAD Works?
+FNDLOAD functions in two primary modes:
+
+### Download Mode:
+This mode extracts data from an Oracle EBS database and saves it in a structured text file with a .ldt extension.
+
+### Upload Mode:
+FNDLOAD reads a previously extracted .ldt file and loads the configuration into a target Oracle EBS database in this mode.
+
+<br>
+ 
+This process guarantees automated migrations of menus, responsibilities, profile options, concurrent programs, workflows, and more, ensuring consistency and error-free results.
+
+<br>
+<p align="center">
+ <img src="https://github.com/demasy/Oracle-FNDLOAD-Loader/blob/main/src/resources/images/how-fndload-works-diagram.png">
+</p>
+
+<br>
+
+FNDLOAD DOWNLOAD generates a .ldt file from Oracle E-Business Suite (EBS).
+
+``` shell
+FNDLOAD apps/password O Y DOWNLOAD $FND_TOP/patch/115/import/afcpprog.lct prog_XXDL_PROGRAM_NAME_us.ldt PROGRAM APPLICATION_SHORT_NAME="XXDL" CONCURRENT_PROGRAM_NAME="XXDL_PROGRAM_NAME"
+```
+<br>
+
+Transfer the .ldt file to the target environment.
+
+``` shell
+scp prog_XXDL_PROGRAM_NAME_us.ldt applmgr@target_server:/u01/demasy/src/migrations/fndload/program/
+```
+
+<br>
+
+The command FNDLOAD UPLOAD imports data into the target instance.
+
+``` shell
+FNDLOAD apps/password 0 Y UPLOAD $FND_TOP/patch/115/import/prog_XXDL_PROGRAM_NAME_us.lct program.ldt
+```
 
 <br>
 
