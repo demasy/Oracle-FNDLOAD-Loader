@@ -9,6 +9,17 @@ The **FNDLOAD** utility utilizes a **configuration file (.lct)** that defines th
 ## How FNDLOAD Works?
 FNDLOAD functions in two primary modes:
 
+### Download Mode:
+This mode extracts data from an Oracle EBS database and saves it in a structured text file with a .ldt extension.
+
+### Upload Mode:
+FNDLOAD reads a previously extracted .ldt file and loads the configuration into a target Oracle EBS database in this mode.
+
+<br>
+ 
+This process guarantees automated migrations of menus, responsibilities, profile options, concurrent programs, workflows, and more, ensuring consistency and error-free results.
+
+
 <br>
 
 ## FNDLOAD Executable Syntax 
