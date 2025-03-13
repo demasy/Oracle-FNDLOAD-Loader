@@ -69,14 +69,23 @@ FNDLOAD apps/password 0 Y UPLOAD $FND_TOP/patch/115/import/<configfile>.lct <dat
   * Menu Entries
   * Functions
   * Forms
+  * Entry
  
 - Workflow & Approval Management Entities
   * Workflow (WFLOAD)
   * Approvals Management Engine (AME)
     * Transaction Types
     * Attributes & Attribute Definitions
+      * Attributes
+      * Attribute Definitions
+      * Attribute Usages
+    * Conditions
     * Approver Groups
+      * Approver Groups Definitions
+      * Approval Group Configuration
     * Rules & Rule Definitions
+      * Rule Definitions
+      * Rule Usages
       
 - Reporting & BI Publisher (XDO) Entities
   * Data Definitions
@@ -88,60 +97,10 @@ FNDLOAD apps/password 0 Y UPLOAD $FND_TOP/patch/115/import/<configfile>.lct <dat
   * Web ADI (Application Desktop Integrator)
  
 - Alerts & Monitoring Entities
-  * Alerts
+  * **<a href="https://github.com/demasy/Oracle-FNDLOAD-Loader#alerts">Alerts</a>**
 
 - Forms Customization & Personalization Entities
   * Forms Personalizations
-
-<br>
- 
-- **<a href="https://github.com/demasy/Oracle-FNDLOAD-Loader#oracle-aol-configuration">Oracle AOL Configuration</a>**
-  * Concurrent Programs
-  * Request Groups
-  * Lookups
-    * Lookup Types
-    * Lookup Values
-  * Profile Options
-    * Profile options definition
-    * profile option values
-  * Flexfields setup
-    * Key flexfields Structures
-    * Descriptive flexfields 
-    * Value sets
-  * Attachments setup
-  * Messages Dictionary
-  * Security Information
-    * Menu
-    * Function
-    * Form
-    * Entry
-- **<a href="https://github.com/demasy/Oracle-FNDLOAD-Loader#alerts">Alerts</a>**
-- **<a href="https://github.com/demasy/Oracle-FNDLOAD-Loader#approvals-management-engine-ame">Approvals Management Engine (AME)</a>**
-  * Transaction Types
-  * Attributes
-  * Attribute Definitions
-  * Attribute Usages
-  * Conditions
-  * Approver Groups
-    * Approver Groups Definitions
-    * Approval Group Configuration
-  * Rules
-    * Rule Definitions
-    * Rule Usages
-- **<a href="https://github.com/demasy/Oracle-FNDLOAD-Loader#xdo">XDO</a>**
-  * Data Definitions
-  * XML Template
-  * RTF Template
-- **<a href="https://github.com/demasy/Oracle-FNDLOAD-Loader#generic">Generic</a>**
-  * Responsibility
-  * Users
-  * Request Set
-  * Request Set Link
-  * SOA Gateway
-  * Forms Personalizations
-- Others
-  * **<a href="https://github.com/demasy/Oracle-FNDLOAD-Loader#wfload">Workflow</a>**
-  * Web ADI 
 
 <br>
 
