@@ -20,9 +20,9 @@ FNDLOAD reads a previously extracted .ldt file and loads the configuration into 
 This process guarantees automated migrations of menus, responsibilities, profile options, concurrent programs, workflows, and more, ensuring consistency and error-free results.
 
 <br>
-
+<p align="center">
  <img src="https://github.com/demasy/Oracle-FNDLOAD-Loader/blob/main/src/resources/images/how-fndload-works-diagram.png">
- 
+</p>
 
 <br>
 
