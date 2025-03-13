@@ -103,9 +103,11 @@ These entities facilitate integrations with external systems and allow data impo
   * Web ADI (Application Desktop Integrator)
  
 ### Alerts & Monitoring Entities
+These entities are utilized for automated alerts and notifications within the system.
   * Alerts
 
 ### Forms Customization & Personalization Entities
+These entities are focused on enhancing the user interface of Oracle Forms to improve the overall user experience.
   * Forms Personalizations
 
 <br>
