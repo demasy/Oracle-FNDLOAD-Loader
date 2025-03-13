@@ -139,12 +139,12 @@ FNDLOAD apps/password 0 Y UPLOAD $FND_TOP/patch/115/import/<configfile>.lct <dat
 
 <br>
 
-### XDO
+### Business Intelligence (BI) Publisher (XDO)
 
 | Code   | Entity Name                           | Configuration File   |
 | :-     | :--------                             | :----   |
-| 4.1    | <a href="#">Data Definitions</a>                 | afsload.lct|
-| 4.2    | <a href="#">XML Template</a>                 | afsload.lct
+| 4.1    | <a href="#">Data Definitions</a>                 | $XDO_TOP/patch/115/import/**xdotmpl**.lct|
+| 4.2    | <a href="#">XML Template</a>                 | $XDO_TOP/patch/115/import/**xdotmpl**.lct|
 
 <br>
 
