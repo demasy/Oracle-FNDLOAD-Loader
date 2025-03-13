@@ -136,7 +136,7 @@ FNDLOAD apps/password 0 Y UPLOAD $FND_TOP/patch/115/import/<configfile>.lct <dat
 
 ## **FNDLOAD Supported Entities**
 
-### Concurrent Processing Entities
+### Concurrent Program Entities
 These entities are responsible for managing the execution of concurrent requests and their dependencies.
  - Concurrent Programs
  - Executables
