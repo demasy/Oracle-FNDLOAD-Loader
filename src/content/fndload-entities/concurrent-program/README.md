@@ -7,16 +7,9 @@
 | PROGRAM     | INCOMPATIBILITY      | 1    |CONCURRENT_PROGRAM_NAME    |
 |             |                      | 2    | APPLICATION_SHORT_NAME    |
 
-### Executable
-
-| Entity      | Sub-entities, if any |  #   | Download Parameters   |
-| :----       | :--------            | :--: | :----   |
-| EXECUTABLE  |          -           | 1    |EXECUTABLE_NAME    |
-
-
 <br>
 
-### Program Commands
+### Commands
 
 ###### Download 
 
@@ -31,8 +24,15 @@ FNDLOAD apps/<$APPS_PWD> 0 Y UPLOAD $FND_TOP/patch/115/import/afcpprog.lct prog_
 ```
 
 <br>
-  
-### Executable Commands
+
+### Executable
+
+| Entity      | Sub-entities, if any |  #   | Download Parameters   |
+| :----       | :--------            | :--: | :----   |
+| EXECUTABLE  |          -           | 1    |EXECUTABLE_NAME    |
+
+
+### Commands
 
 ###### Download 
 
