@@ -148,6 +148,13 @@ FNDLOAD apps/password 0 Y UPLOAD $FND_TOP/patch/115/import/<configfile>.lct <dat
 
 <br>
 
+### Web Applications Desktop Integrator (Web ADI)
+
+| Code   | Entity Name                           | Configuration File   |
+| :-     | :--------                             | :----   |
+| 4.1    | <a href="#">Integrators</a>                 | $BNE_TOP/patch/115/import/**bneintegrator**.lct|
+
+<br>
 
 ### Generic
 
