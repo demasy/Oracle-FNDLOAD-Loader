@@ -95,7 +95,7 @@ FNDLOAD apps/password 0 Y UPLOAD $FND_TOP/patch/115/import/<configfile>.lct <dat
 
 | Code   | Entity Name                           | Configuration File   |
 | :-     | :--------                             | :----   |
-| 1.1    | <a href="#">Concurrent Programs</a>                  | afcpprog.lct|
+| 1.1    | <a href="#">Concurrent Programs</a>                  | $FND_TOP/patch/115/import/**afcpprog**.lct|
 | 1.2    | <a href="#">Request Groups</a>                  | afcpreqg.lct|
 | 1.3    | <a href="#">Lookup: Lookup Types</a>                  | aflvmlu.lct|
 | 1.4    | <a href="#">Lookup: Lookup Values</a>                  | aflvmlu.lct|
