@@ -28,7 +28,7 @@ This process guarantees automated migrations of menus, responsibilities, profile
 
 ## FNDLOAD Executable Syntax 
 
-The Generic Loader is a concurrent program named FNDLOAD. The concurrent executable takes the following parameters:
+The Generic Loader is a concurrent program called FNDLOAD. This concurrent executable accepts the following parameters:
 
 > **FNDLOAD {apps/password} {0 Y} {mode} {configfile} {datafile} {entity} [optional {param} {param}]**
 
