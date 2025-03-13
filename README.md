@@ -13,6 +13,9 @@ FNDLOAD utilizes two primary types of files to transfer configurations between O
 - The **.lct** file, also known as the Loader Control File, specifies the data and structure to be extracted.
 - It serves as a blueprint for migrating specific entities, such as Concurrent Programs, Menus, Responsibilities, and more.
 - Each entity is associated with its **.lct** file, which Oracle provides in the **$FND_TOP/patch/115/import/**.
+- **The .lct** file only defines the data structure, lacking actual data.
+- **FNDLOAD** utilizes this file during both **DOWNLOAD** and **UPLOAD** operations.
+
 
 #### Examples
 
@@ -26,9 +29,6 @@ FNDLOAD utilizes two primary types of files to transfer configurations between O
 | Menus                                | $FND_TOP/patch/115/import/**afsload.lct**|
 | Profile Options                      | $FND_TOP/patch/115/import/**wf.lct**|
 
-##### How does it work?
-- **The .lct** file only defines the data structure, lacking actual data.
-- **FNDLOAD** utilizes this file during both **DOWNLOAD** and **UPLOAD** operations.
 
 <br>
 
