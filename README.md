@@ -24,6 +24,12 @@ This process guarantees automated migrations of menus, responsibilities, profile
  <img src="https://github.com/demasy/Oracle-FNDLOAD-Loader/blob/main/src/resources/images/how-fndload-works-diagram.png">
 </p>
 
+<br>
+
+- FNDLOAD DOWNLOAD generates a .ldt file from Oracle E-Business Suite (EBS).
+- Transfer the .ldt file to the target environment.
+- The command FNDLOAD UPLOAD imports data into the target instance.
+
 
 <br>
 
