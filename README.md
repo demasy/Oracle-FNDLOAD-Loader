@@ -126,14 +126,16 @@ FNDLOAD apps/password 0 Y UPLOAD $FND_TOP/patch/115/import/<configfile>.lct <dat
 
 | Code   | Entity Name                           | Configuration File   |
 | :-     | :--------                             | :----   |
-| 3.1    | <a href="#">Transaction Types</a>                 | afsload.lct|
-| 3.2    | <a href="#">Attribute: Definitions</a>                 | afsload.lct|
-| 3.3    | <a href="#">Attribute: Usages</a>                 | afsload.lct|
-| 3.4    | <a href="#">Conditions</a>                 | afsload.lct|
-| 3.5    | <a href="#">Approver Group: Definitions</a>                 | afsload.lct|
-| 3.6    | <a href="#">Approver Group: Configuration</a>                 | afsload.lct|
-| 3.7    | <a href="#">Rule: Definitions</a>                 | afsload.lct|
-| 3.8    | <a href="#">Rule: Usages</a>                 | afsload.lct|
+| 3.1    | <a href="#">Transaction Types</a>                 | $AME_TOP/patch/115/import/**amesrulk**.lct|
+| 3.2    | <a href="#">Attribute</a>                 | $AME_TOP/patch/115/import/**amesattr**.lct|
+| 3.2    | <a href="#">Attribute: Definitions</a>                 | $AME_TOP/patch/115/import/**amesatdf**.lct|
+| 3.3    | <a href="#">Attribute: Usages</a>                 | $AME_TOP/patch/115/import/**amesatus**.lct|
+| 3.4    | <a href="#">Conditions</a>                 | $AME_TOP/patch/115/import/**amescond**.lct|
+| 3.5    | <a href="#">Approver Group</a>                 | $AME_TOP/patch/115/import/**amesagrp**.lct|
+| 3.5    | <a href="#">Approver Group: Definitions</a>                 | $AME_TOP/patch/115/import/**amesagdf**.lct|
+| 3.6    | <a href="#">Approver Group: Configuration</a>                 | $AME_TOP/patch/115/import/**amesagco**.lct|
+| 3.7    | <a href="#">Rule: Definitions</a>                 | $AME_TOP/patch/115/import/**amesrulk**.lct|
+| 3.8    | <a href="#">Rule: Usages</a>                 | $AME_TOP/patch/115/import/**amesruus**.lct|
 
 <br>
 
