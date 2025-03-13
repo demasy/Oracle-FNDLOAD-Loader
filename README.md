@@ -97,7 +97,7 @@ FNDLOAD apps/password 0 Y UPLOAD $FND_TOP/patch/115/import/<configfile>.lct <dat
   * Web ADI (Application Desktop Integrator)
  
 - Alerts & Monitoring Entities
-  * **<a href="https://github.com/demasy/Oracle-FNDLOAD-Loader#alerts">Alerts</a>**
+  * Alerts
 
 - Forms Customization & Personalization Entities
   * Forms Personalizations
