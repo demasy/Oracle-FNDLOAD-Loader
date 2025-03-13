@@ -30,6 +30,14 @@ This process guarantees automated migrations of menus, responsibilities, profile
 ## Understanding FNDLOAD File Types
 FNDLOAD utilizes two primary types of files to transfer configurations between Oracle EBS environments:
 
+### Configuration File (.lct)
+- The .lct file, also known as the Loader Control File, specifies the data and structure to be extracted.
+- It serves as a blueprint for migrating specific entities, such as Concurrent Programs, Menus, Responsibilities, and more.
+- Each entity is associated with its .lct file, which Oracle provides in the $FND_TOP/patch/115/import/ directory.
+
+### Data File (.ldt)
+
+
 <br>
 
 ## FNDLOAD Executable Syntax 
