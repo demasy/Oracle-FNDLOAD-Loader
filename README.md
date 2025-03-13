@@ -27,7 +27,7 @@ FNDLOAD utilizes two primary types of files to transfer configurations between O
 | Request Groups                       | $FND_TOP/patch/115/import/**afcpreqg.lct**|
 | Profile Options                      | $FND_TOP/patch/115/import/**afscprof.lct**|
 | Menus                                | $FND_TOP/patch/115/import/**afsload.lct**|
-| Profile Options                      | $FND_TOP/patch/115/import/**wf.lct**|
+| Workflow                             | $FND_TOP/patch/115/import/**wf.lct**|
 
 
 <br>
