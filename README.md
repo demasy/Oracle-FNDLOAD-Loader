@@ -36,7 +36,7 @@ The Generic Loader is a concurrent program called FNDLOAD. This concurrent execu
 
 | Code      | Variable                   | Description                   |
 | :-:       | :--------                  | :--------------------------   |
-| 1         | {apps/APPS_PASSWORD}       | The APPS schema and password       |
+| 1         | {apps/password}       | The APPS schema and password       |
 | 2         | {0 Y}                      | Concurrent program flags       |
 | 3         | {mode}                     | UPLOAD or DOWNLOAD <br> - **UPLOAD** causes the datafile to be uploaded to the database. <br> - **DOWNLOAD** causes the loader to fetch rows and write them to the datafile.|
 | 4         | {configfile}               | The configuration file to use (usually with a suffix of .lct, but not enforced or supplied by the loader).       |
