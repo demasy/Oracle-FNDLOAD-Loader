@@ -24,6 +24,12 @@ This process guarantees automated migrations of menus, responsibilities, profile
  <img src="https://github.com/demasy/Oracle-FNDLOAD-Loader/blob/main/src/resources/images/how-fndload-works-diagram.png">
 </p>
 
+
+<br>
+
+## Understanding FNDLOAD File Types
+FNDLOAD utilizes two primary types of files to transfer configurations between Oracle EBS environments:
+
 <br>
 
 ## FNDLOAD Executable Syntax 
