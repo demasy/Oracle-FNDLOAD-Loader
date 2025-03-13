@@ -51,6 +51,9 @@ FNDLOAD utilizes two primary types of files to transfer configurations between O
 - **The .lct** file only defines the data structure, lacking actual data.
 - **FNDLOAD** utilizes this file during both **DOWNLOAD** and **UPLOAD** operations.
 
+<br>
+
+> Oracle advises against modifying .lct files, which can lead to data corruption. Always use the official .lct files provided by Oracle.
 
 <br>
 
