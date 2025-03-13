@@ -7,6 +7,7 @@ The **FNDLOAD** utility utilizes a **configuration file (.lct)** that defines th
 <br>
 
 ## How FNDLOAD Works?
+FNDLOAD functions in two primary modes:
 
 <br>
 
