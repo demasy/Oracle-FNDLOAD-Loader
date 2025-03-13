@@ -16,7 +16,7 @@
 
 <br>
 
-### Example: Program
+### Program Commands
 
 ###### Download 
 
@@ -32,7 +32,7 @@ FNDLOAD apps/<$APPS_PWD> 0 Y UPLOAD $FND_TOP/patch/115/import/afcpprog.lct prog_
 
 <br>
   
-### Example: Executable
+### Executable Commands
 
 ###### Download 
 
