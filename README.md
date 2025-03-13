@@ -41,6 +41,35 @@ FNDLOAD apps/password 0 Y UPLOAD $FND_TOP/patch/115/import/<configfile>.lct <dat
 
 ## **FNDLOAD Supported Entities**
 
+- Concurrent Processing Entities
+  * Concurrent Programs
+  * Executables
+  * Request Groups
+  * Request Sets
+  * Request Set Links
+ 
+- Application Object Library (AOL) Setup Entities
+  * Lookups
+    * Lookup Types
+    * Lookup Values
+  * Profile Options
+    * Profile Definitions
+    * Profile Option Values
+  * Messages Dictionary
+  * Attachments Setup
+  * Flexfields Setup
+    * Key Flexfield Structures
+    * Descriptive Flexfields
+    * Value Sets
+- Security & Access Control Entities
+- Workflow & Approval Management Entities
+- Reporting & BI Publisher (XDO) Entities
+- SOA, Integrations & Web ADI Entities
+- Alerts & Monitoring Entities
+- Forms Customization & Personalization Entities
+
+<br>
+ 
 - **<a href="https://github.com/demasy/Oracle-FNDLOAD-Loader#oracle-aol-configuration">Oracle AOL Configuration</a>**
   * Concurrent Programs
   * Request Groups
