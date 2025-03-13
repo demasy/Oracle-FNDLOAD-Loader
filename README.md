@@ -197,8 +197,8 @@ These entities facilitate integrations with external systems and allow data impo
   * SOA Gateway
   * Web ADI (Application Desktop Integrator)
  
-### Alerts & Monitoring Entities
-These entities are utilized for automated alerts and notifications within the system.
+### Alerts
+These entities are utilized for alerts.
   * Alerts
 
 ### Forms Customization & Personalization Entities
