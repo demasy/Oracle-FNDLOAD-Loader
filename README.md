@@ -104,7 +104,7 @@ FNDLOAD apps/password 0 Y UPLOAD $FND_TOP/patch/115/import/<configfile>.lct <dat
 | 1.7    | <a href="#">Flexfield: Key flexfields</a>                  | $FND_TOP/patch/115/import/**afffload**.lct|
 | 1.8    | <a href="#">Flexfield: Descriptive flexfields</a>                  | $FND_TOP/patch/115/import/**afffload**.lct |
 | 1.9    | <a href="#">Flexfield: Value sets</a>                  | $FND_TOP/patch/115/import/**afffload**.lct|
-| 1.10   | <a href="#">Attachments</a>                  | afattach.lct|
+| 1.10   | <a href="#">Attachments</a>                  | $FND_TOP/patch/115/import/**afattach**.lct|
 | 1.11   | <a href="#">Messages</a>                  | afmdmsg.lct|
 | 1.12   | <a href="#">Security: Menu</a>                  | afsload.lct|
 | 1.13   | <a href="#">Security: Function</a>                  | afsload.lct|
