@@ -61,12 +61,37 @@ FNDLOAD apps/password 0 Y UPLOAD $FND_TOP/patch/115/import/<configfile>.lct <dat
     * Key Flexfield Structures
     * Descriptive Flexfields
     * Value Sets
+   
 - Security & Access Control Entities
+  * Users
+  * Responsibilities
+  * Menus
+  * Menu Entries
+  * Functions
+  * Forms
+ 
 - Workflow & Approval Management Entities
+  * Workflow (WFLOAD)
+  * Approvals Management Engine (AME)
+    * Transaction Types
+    * Attributes & Attribute Definitions
+    * Approver Groups
+    * Rules & Rule Definitions
+      
 - Reporting & BI Publisher (XDO) Entities
+  * Data Definitions
+  * XML Templates
+  * RTF Templates
+
 - SOA, Integrations & Web ADI Entities
+  * SOA Gateway
+  * Web ADI (Application Desktop Integrator)
+ 
 - Alerts & Monitoring Entities
+  * Alerts
+
 - Forms Customization & Personalization Entities
+  * Forms Personalizations
 
 <br>
  
