@@ -16,7 +16,7 @@
 
 <br>
 
-### Example
+### Example: Program
 
 ###### Download 
 
@@ -28,6 +28,22 @@ FNDLOAD apps/<$APPS_PWD> O Y DOWNLOAD $FND_TOP/patch/115/import/afcpprog.lct pro
 
 ```
 FNDLOAD apps/<$APPS_PWD> 0 Y UPLOAD $FND_TOP/patch/115/import/afcpprog.lct prog_XXDL_CONCURRENT_PROGRAM.ldt - WARNING=YES UPLOAD_MODE=REPLACE CUSTOM_MODE=FORCE
+```
+
+<br>
+  
+### Example: Executable
+
+###### Download 
+
+```
+FNDLOAD apps/<$apps_password> 0 Y DOWNLOAD $FND_TOP/patch/115/import/afcpprog.lct exe_XXDL_EXECUTABLE_NAME_us.ldt EXECUTABLE EXECUTABLE_NAME="XXDL_EXECUTABLE_NAME" APPLICATION_SHORT_NAME="XXDL"
+```
+
+###### Upload
+
+```
+FNDLOAD apps/<$apps_password> 0 Y UPLOAD $FND_TOP/patch/115/import/afcpprog.lct exe_XXDL_EXECUTABLE_NAME_us.ldt
 ```
 
 <br>
