@@ -26,10 +26,26 @@ This process guarantees automated migrations of menus, responsibilities, profile
 
 <br>
 
-- FNDLOAD DOWNLOAD generates a .ldt file from Oracle E-Business Suite (EBS).
-- Transfer the .ldt file to the target environment.
-- The command FNDLOAD UPLOAD imports data into the target instance.
+FNDLOAD DOWNLOAD generates a .ldt file from Oracle E-Business Suite (EBS).
 
+``` shell
+FNDLOAD apps/password O Y DOWNLOAD $FND_TOP/patch/115/import/afcpprog.lct prog_XXDL_PROGRAM_NAME_us.ldt PROGRAM APPLICATION_SHORT_NAME="XXDL" CONCURRENT_PROGRAM_NAME="XXDL_PROGRAM_NAME"
+```
+<br>
+
+Transfer the .ldt file to the target environment.
+
+``` shell
+scp prog_XXDL_PROGRAM_NAME_us.ldt applmgr@target_server:/u01/demasy/src/migrations/fndload/program/
+```
+
+<br>
+
+The command FNDLOAD UPLOAD imports data into the target instance.
+
+``` shell
+FNDLOAD apps/password 0 Y UPLOAD $FND_TOP/patch/115/import/prog_XXDL_PROGRAM_NAME_us.lct program.ldt
+```
 
 <br>
 
