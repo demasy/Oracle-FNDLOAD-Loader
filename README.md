@@ -41,14 +41,16 @@ FNDLOAD apps/password 0 Y UPLOAD $FND_TOP/patch/115/import/<configfile>.lct <dat
 
 ## **FNDLOAD Supported Entities**
 
-- Concurrent Processing Entities
-  * Concurrent Programs
-  * Executables
-  * Request Groups
-  * Request Sets
-  * Request Set Links
+### Concurrent Processing Entities
+These entities are responsible for managing the execution of concurrent requests and their dependencies.
+ - Concurrent Programs
+ - Executables
+ - Request Groups
+ - Request Sets
+ - Request Set Links
  
-- Application Object Library (AOL) Setup Entities
+### Application Object Library (AOL) Setup Entities
+These entities refer to core application-level configurations used for validation, system settings, and flexfields.
   * Lookups
     * Lookup Types
     * Lookup Values
@@ -62,7 +64,8 @@ FNDLOAD apps/password 0 Y UPLOAD $FND_TOP/patch/115/import/<configfile>.lct <dat
     * Descriptive Flexfields
     * Value Sets
    
-- Security & Access Control Entities
+### Security & Access Control Entities
+These entities are responsible for defining user roles, controlling menu access, and managing function-level security in the Oracle E-Business Suite (EBS).
   * Users
   * Responsibilities
   * Menus
@@ -71,7 +74,8 @@ FNDLOAD apps/password 0 Y UPLOAD $FND_TOP/patch/115/import/<configfile>.lct <dat
   * Forms
   * Entry
  
-- Workflow & Approval Management Entities
+### Workflow & Approval Management Entities
+These entities are used for business approvals and workflow.
   * Workflow (WFLOAD)
   * Approvals Management Engine (AME)
     * Transaction Types
@@ -87,19 +91,21 @@ FNDLOAD apps/password 0 Y UPLOAD $FND_TOP/patch/115/import/<configfile>.lct <dat
       * Rule Definitions
       * Rule Usages
       
-- Reporting & BI Publisher (XDO) Entities
+### Reporting & BI Publisher (XDO) Entities
+These entities are associated with reporting and template management in Oracle BI Publisher.
   * Data Definitions
   * XML Templates
   * RTF Templates
 
-- SOA, Integrations & Web ADI Entities
+### SOA, Integrations & Web ADI Entities
+
   * SOA Gateway
   * Web ADI (Application Desktop Integrator)
  
-- Alerts & Monitoring Entities
+### Alerts & Monitoring Entities
   * Alerts
 
-- Forms Customization & Personalization Entities
+### Forms Customization & Personalization Entities
   * Forms Personalizations
 
 <br>
