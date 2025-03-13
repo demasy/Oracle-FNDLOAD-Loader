@@ -160,9 +160,9 @@ FNDLOAD apps/password 0 Y UPLOAD $FND_TOP/patch/115/import/<configfile>.lct <dat
 
 | Code   | Entity Name                           | Configuration File   |
 | :-     | :--------                             | :----   |
-| 5.1    | <a href="#">Responsibility</a>        | afscursp.lct|
-| 5.2    | <a href="#">Users</a>                 | afscursp.lct|
-| 5.3    | <a href="#">Request Set</a>           | afcprset.lct|
+| 5.1    | <a href="#">Responsibility</a>        | $FND_TOP/patch/115/import/**afscursp**.lct|
+| 5.2    | <a href="#">Users</a>                 | $FND_TOP/patch/115/import/**afscuur**.lct|
+| 5.3    | <a href="#">Request Set</a>           | $FND_TOP/patch/115/import/**afcprset**.lct|
 | 5.4    | <a href="#">Request Set Link</a>      | afcprset.lct|
 | 5.5    | <a href="#">SOA Gateway</a>           | afsload.lct|
 
