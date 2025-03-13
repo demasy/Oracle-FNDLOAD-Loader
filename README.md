@@ -28,12 +28,12 @@ The Generic Loader is a concurrent program named FNDLOAD. The concurrent executa
 
 ###### Download
 ```
-FNDLOAD
+FNDLOAD apps/password 0 Y DOWNLOAD $FND_TOP/patch/115/import/<configfile>.lct <datafile>.ldt [entity] [parameters]
 ```
 
 ###### Upload
 ```
-FNDLOAD
+FNDLOAD apps/password 0 Y UPLOAD $FND_TOP/patch/115/import/<configfile>.lct <datafile>.ldt
 ```
 
 
