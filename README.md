@@ -94,7 +94,7 @@ scp prog_XXDL_PROGRAM_NAME_us.ldt applmgr@target_server:/u01/demasy/src/migratio
 The command FNDLOAD UPLOAD imports data into the target instance.
 
 ``` shell
-FNDLOAD apps/password 0 Y UPLOAD $FND_TOP/patch/115/import/prog_XXDL_PROGRAM_NAME_us.lct program.ldt
+FNDLOAD apps/password 0 Y UPLOAD $FND_TOP/patch/115/import/afcpprog.lct prog_XXDL_PROGRAM_NAME_us.ldt
 ```
 
 <br>
