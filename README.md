@@ -39,7 +39,7 @@ FNDLOAD apps/password 0 Y UPLOAD $FND_TOP/patch/115/import/<configfile>.lct <dat
 
 <br>
 
-## **FNDLOAD Entities**
+## **FNDLOAD Supported Entities**
 
 - **<a href="https://github.com/demasy/Oracle-FNDLOAD-Loader#oracle-aol-configuration">Oracle AOL Configuration</a>**
   * Concurrent Programs
