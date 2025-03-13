@@ -6,6 +6,10 @@ The **FNDLOAD** utility utilizes a **configuration file (.lct)** that defines th
 
 <br>
 
+## How FNDLOAD Works?
+
+<br>
+
 ## FNDLOAD Executable Syntax 
 
 The Generic Loader is a concurrent program named FNDLOAD. The concurrent executable takes the following parameters:
