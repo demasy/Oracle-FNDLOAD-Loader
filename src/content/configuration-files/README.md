@@ -71,8 +71,9 @@
 ## Workflow & Approval Management Entities
 
 ### Workflow
-| Code   | Entity Name                      | Entity Code      | Configuration File   | Table Name |
-| :-:     | :--------                       | :----            | :----   | :----   |
+| Code   | Entity Name  | Entity Code   | Configuration File               | Table Name |
+| :-:    | :--------    | :----         | :----                            | :----   |
+| 1      | Workflow     | WFLOAD        | $FND_TOP/patch/115/import/wf.lct | WF_ITEMS  |
 
 <br>
 
