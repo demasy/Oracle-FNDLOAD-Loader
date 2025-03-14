@@ -100,8 +100,8 @@
 | Code | Entity Name                  | Entity Code               | Configuration File                | Table Name |
 | :-:  | :--------                    | :----                     | :----                             | :----   |
 | 1    | Approver Groups              | AME_APPROVER_GROUP        | $AME_TOP/patch/115/import/ame.lct | AME_APPROVER_GROUPS  |
-| 2    | Approver Group Definitions   | AME_APPROVER_GROUP_DEF    | $AME_TOP/patch/115/import/ame.lct | AME_APPROVER_GROUP_DEFINITIONS  |
-| 3    | Approval Group Configuration | AME_APPROVAL_GROUP_CONFIG | $AME_TOP/patch/115/import/ame.lct | AME_APPROVAL_GROUP_CONFIGS  |
+| 2    | Definitions   | AME_APPROVER_GROUP_DEF    | $AME_TOP/patch/115/import/ame.lct | AME_APPROVER_GROUP_DEFINITIONS  |
+| 3    | Configuration | AME_APPROVAL_GROUP_CONFIG | $AME_TOP/patch/115/import/ame.lct | AME_APPROVAL_GROUP_CONFIGS  |
 
 #### Rules
 | Code | Entity Name       | Entity Code     | Configuration File                | Table Name |
