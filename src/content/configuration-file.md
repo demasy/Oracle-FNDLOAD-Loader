@@ -11,9 +11,56 @@
 | 4    | Request Sets                       | REQUEST_SET      | $FND_TOP/patch/115/import/afcpreqs.lct | FND_REQUEST_SETS  |
 | 5    | Request Set Links                  | REQUEST_SET_LINK | $FND_TOP/patch/115/import/afcpreqs.lct | FND_REQUEST_SET_LINKS  |
 
+<br>
+
+## Application Object Library (AOL) Entities
+
+| Code   | Entity Name                      | Entity Code      | Configuration File   | Table Name |
+| :-:     | :--------                       | :----            | :----   | :----   |
 
 <br>
 
+## Security & Access Control Entities
+
+| Code   | Entity Name                      | Entity Code      | Configuration File   | Table Name |
+| :-:     | :--------                       | :----            | :----   | :----   |
+
+<br>
+
+## Workflow & Approval Management Entities
+
+| Code   | Entity Name                      | Entity Code      | Configuration File   | Table Name |
+| :-:     | :--------                       | :----            | :----   | :----   |
+
+<br>
+
+## Reporting & BI Publisher (XDO) Entities
+
+| Code   | Entity Name                      | Entity Code      | Configuration File   | Table Name |
+| :-:     | :--------                       | :----            | :----   | :----   |
+
+<br>
+
+## SOA, Integrations & Web ADI Entities
+
+| Code   | Entity Name                      | Entity Code      | Configuration File   | Table Name |
+| :-:     | :--------                       | :----            | :----   | :----   |
+
+<br>
+
+## Alerts Entity
+
+| Code   | Entity Name                      | Entity Code      | Configuration File   | Table Name |
+| :-:     | :--------                       | :----            | :----   | :----   |
+
+<br>
+
+## Forms Personalization Entities
+
+| Code   | Entity Name                      | Entity Code      | Configuration File   | Table Name |
+| :-:     | :--------                       | :----            | :----   | :----   |
+
+<br>
 
 ### AOL
 | Code   | Entity Name                           | Configuration File   |
