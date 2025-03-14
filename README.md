@@ -144,7 +144,7 @@ These entities are responsible for managing the execution of concurrent requests
  - Request Sets
  - Request Set Links
  
-### Application Object Library (AOL) Setup Entities
+### Application Object Library (AOL) Entities
 These entities refer to core application-level configurations used for validation, system settings, and flexfields.
   * Lookups
     * Lookup Types
