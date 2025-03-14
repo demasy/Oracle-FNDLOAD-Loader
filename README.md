@@ -171,20 +171,20 @@ These entities are responsible for defining user roles, controlling menu access,
  
 ### Workflow & Approval Management Entities
 These entities are used for business approvals and workflow.
-  * Workflow (WFLOAD)
+  * <a href="#">Workflow (WFLOAD)</a>
   * Approvals Management Engine (AME)
-    * Transaction Types
+    * <a href="#">Transaction Types</a>
     * Attributes & Attribute Definitions
-      * Attributes
-      * Attribute Definitions
-      * Attribute Usages
-    * Conditions
+      * <a href="#">Attributes</a>
+      * <a href="#">Attribute Definitions</a>
+      * <a href="#">Attribute Usages</a>
+    * <a href="#">Conditions</a>
     * Approver Groups
-      * Approver Groups Definitions
-      * Approval Group Configuration
+      * <a href="#">Approver Groups Definitions</a>
+      * <a href="#">Approval Group Configuration</a>
     * Rules & Rule Definitions
-      * Rule Definitions
-      * Rule Usages
+      * <a href="#">Rule Definitions</a>
+      * <a href="#">Rule Usages</a>
       
 ### Reporting & BI Publisher (XDO) Entities
 These entities are associated with reporting and template management in Oracle BI Publisher.
