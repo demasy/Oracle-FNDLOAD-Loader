@@ -56,9 +56,15 @@
 
 
 ## Security & Access Control Entities
-
-| Code   | Entity Name                      | Entity Code      | Configuration File   | Table Name |
-| :-:     | :--------                       | :----            | :----   | :----   |
+| Code   | Entity Name     | Entity Code    | Configuration File                     | Table Name |
+| :-:     | :--------      | :----          | :----                                  | :----   |
+| 1    | Users             | USER           | $FND_TOP/patch/115/import/afscusr.lct  | FND_USER  |
+| 2    | Responsibilities  | RESPONSIBILITY | $FND_TOP/patch/115/import/afscursp.lct | FND_RESPONSIBILITY  |
+| 3    | Menus             | MENU           | $FND_TOP/patch/115/import/afsload.lct  | FND_MENUS  |
+| 4    | Menu Entries      | MENU_ENTRY     | $FND_TOP/patch/115/import/afsload.lct  | FND_MENU_ENTRIES  |
+| 5    | Functions         | FUNCTION       | $FND_TOP/patch/115/import/afscursp.lct | FND_FORM_FUNCTIONS  |
+| 6    | Forms             | FORM           | $FND_TOP/patch/115/import/afsecurr.lct | FND_FORM  |
+| 7    | Entry             | ENTRY          | $FND_TOP/patch/115/import/afsecurr.lct | FND_FORM_FUNCTIONS  |
 
 <br>
 
