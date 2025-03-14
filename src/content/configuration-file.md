@@ -24,8 +24,10 @@
 <br>
 
 ### Profile Options
-| Code   | Entity Name                      | Entity Code      | Configuration File   | Table Name |
-| :-:     | :--------                       | :----            | :----   | :----   |
+| Code   | Entity Name              | Entity Code          | Configuration File                     | Table Name |
+| :-:    | :--------                | :----                | :----                                  | :----   |
+| 1      | Profile Options          | PROFILE_OPTION       | $FND_TOP/patch/115/import/afscprof.lct | FND_PROFILE_OPTIONS  |
+| 2      | Profile Option Values    | PROFILE_OPTION_VALUE | $FND_TOP/patch/115/import/afscprof.lct | FND_PROFILE_OPTION_VALUES  |
 
 <br>
 
