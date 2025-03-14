@@ -18,9 +18,6 @@ FNDLOAD utilizes two primary types of files to transfer configurations between O
 
 
 #### Examples
-
-<br>
-
 | Entity Name                           | Configuration File   |
 | :--------                             | :----   |
 | Concurrent Programs                  | $FND_TOP/patch/115/import/**afcpprog.lct**|
@@ -44,9 +41,6 @@ FNDLOAD utilizes two primary types of files to transfer configurations between O
 <br>
 
  #### Examples
-
-<br>
-
 | Entity Name                           | Example Data File (.ldt)   |
 | :--------                             | :----   |
 | Concurrent Programs                   | program.ldt |
