@@ -84,6 +84,13 @@
 | :-:  | :--------         | :----                | :----                             | :----   |
 | 1    | Transaction Types | AME_TRANSACTION_TYPE | $AME_TOP/patch/115/import/ame.lct | AME_TRANSACTION_TYPES  |
 
+#### Attributes
+| Code | Entity Name           | Entity Code         | Configuration File                | Table Name |
+| :-:  | :--------             | :----               | :----                             | :----   |
+| 1    | Attributes            | AME_ATTRIBUTE       | $AME_TOP/patch/115/import/ame.lct | AME_ATTRIBUTES  |
+| 1    | Attribute Definitions | AME_ATTRIBUTE_DEF   | $AME_TOP/patch/115/import/ame.lct | AME_ATTRIBUTE_DEFINITIONS  |
+| 1    | Attribute Usages      | AME_ATTRIBUTE_USAGE | $AME_TOP/patch/115/import/ame.lct | AME_ATTRIBUTE_USAGES  |
+
 
 <br>
 
