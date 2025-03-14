@@ -113,9 +113,11 @@
 
 
 ## Reporting & BI Publisher (XDO) Entities
-
-| Code   | Entity Name                      | Entity Code      | Configuration File   | Table Name |
-| :-:     | :--------                       | :----            | :----   | :----   |
+| Code | Entity Name      | Entity Code       | Configuration File                    | Table Name |
+| :-:  | :--------        | :----             | :----                                 | :----   |
+| 1    | Data Definitions | XDO_DS_DEFINITION | $XDO_TOP/patch/115/import/xdodict.lct | XDO_DS_DEFINITIONS  |
+| 2    | XML Templates    | XDO_TEMPLATE      | $XDO_TOP/patch/115/import/xdotmpl.lct | XDO_TEMPLATES  |
+| 3    | RTF Templates    | XDO_RTF_TEMPLATE  | $XDO_TOP/patch/115/import/xdotmpl.lct | XDO_RTF_TEMPLATES  |
 
 <br>
 
