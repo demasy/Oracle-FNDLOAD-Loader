@@ -15,10 +15,36 @@
 
 ## Application Object Library (AOL) Entities
 
+### Lookups
 | Code   | Entity Name                      | Entity Code      | Configuration File   | Table Name |
 | :-:     | :--------                       | :----            | :----   | :----   |
 
 <br>
+
+### Profile Options
+| Code   | Entity Name                      | Entity Code      | Configuration File   | Table Name |
+| :-:     | :--------                       | :----            | :----   | :----   |
+
+<br>
+
+### Flexfields
+| Code   | Entity Name                      | Entity Code      | Configuration File   | Table Name |
+| :-:     | :--------                       | :----            | :----   | :----   |
+
+<br>
+
+### Messages Dictionary
+| Code   | Entity Name                      | Entity Code      | Configuration File   | Table Name |
+| :-:     | :--------                       | :----            | :----   | :----   |
+
+<br>
+
+### Attachments
+| Code   | Entity Name                      | Entity Code      | Configuration File   | Table Name |
+| :-:     | :--------                       | :----            | :----   | :----   |
+
+<br>
+
 
 ## Security & Access Control Entities
 
