@@ -139,9 +139,9 @@
 
 
 ## Alerts Entity
-
-| Code   | Entity Name                      | Entity Code      | Configuration File   | Table Name |
-| :-:     | :--------                       | :----            | :----   | :----   |
+| Code | Entity Name | Entity Code | Configuration File                | Table Name |
+| :-:  | :--------   | :----       | :----                             | :----      |
+| 1    | Alerts      | ALERT       | $ALR_TOP/patch/115/import/alr.lct | ALR_ALERTS  |
 
 <br>
 
