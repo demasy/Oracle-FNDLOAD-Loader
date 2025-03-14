@@ -48,8 +48,9 @@
 <br>
 
 ### Attachments
-| Code   | Entity Name                      | Entity Code      | Configuration File   | Table Name |
-| :-:     | :--------                       | :----            | :----   | :----   |
+| Code   | Entity Name           | Entity Code   | Configuration File                     | Table Name |
+| :-:    | :--------             | :----         | :----                                  | :----   |
+| 1      | Attachments Setup     | ATTACHMENT    | $FND_TOP/patch/115/import/afftalrt.lct | FND_DOCUMENTS  |
 
 <br>
 
