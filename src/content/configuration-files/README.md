@@ -123,10 +123,18 @@
 
 ## SOA, Integrations & Web ADI Entities
 
+### Integrated SOA Gateway (ISG)
 | Code   | Entity Name                      | Entity Code      | Configuration File   | Table Name |
 | :-:     | :--------                       | :----            | :----   | :----   |
 
 <br>
+
+### Web ADI
+| Code   | Entity Name                      | Entity Code      | Configuration File   | Table Name |
+| :-:     | :--------                       | :----            | :----   | :----   |
+
+<br>
+
 
 ## Alerts Entity
 
