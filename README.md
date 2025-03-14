@@ -112,7 +112,7 @@ The Generic Loader is a concurrent program called FNDLOAD. This concurrent execu
 | 1         | {apps/password}       | The APPS schema and password       |
 | 2         | {0 Y}                      | Concurrent program flags       |
 | 3         | {mode}                     | UPLOAD or DOWNLOAD <br> - **DOWNLOAD** causes the loader to fetch rows and write them to the datafile. <br> - **UPLOAD** causes the datafile to be uploaded to the database. |
-| 4         | {configuration-file}       | The configuration file to use (usually with a suffix of .lct, but not enforced or supplied by the loader).       |
+| 4         | {config-file}       | The configuration file to use (usually with a suffix of .lct, but not enforced or supplied by the loader).       |
 | 5         | {data-file}                | The data file to write (usually with a suffix of .ldt, but not enforced or supplied by the loader). If the data file already exists, it will be overwritten.       |
 | 6         | {entity}                   | The entity(ies) to upload or download. When uploading, you should always upload all entities, so specify a "-" to upload all entities.       |
 | 7         | [optional {param} {param}] | Zero or more additional parameters are used to provide bind values in the access SQL (both UPLOAD and DOWNLOAD). Each parameter is in the form NAME=VALUE. NAME should not conflict with an attribute name for the entities being loaded.       |
@@ -123,12 +123,12 @@ The Generic Loader is a concurrent program called FNDLOAD. This concurrent execu
 
 ###### Download
 ```
-FNDLOAD apps/password 0 Y DOWNLOAD $FND_TOP/patch/115/import/<configfile>.lct <datafile>.ldt [entity] [parameters]
+FNDLOAD apps/password 0 Y DOWNLOAD $FND_TOP/patch/115/import/<config-file>.lct <data-file>.ldt [entity] [parameters]
 ```
 
 ###### Upload
 ```
-FNDLOAD apps/password 0 Y UPLOAD $FND_TOP/patch/115/import/<configfile>.lct <datafile>.ldt
+FNDLOAD apps/password 0 Y UPLOAD $FND_TOP/patch/115/import/<config-file>.lct <data-file>.ldt
 ```
 
 
