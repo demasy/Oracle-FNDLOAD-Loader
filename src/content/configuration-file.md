@@ -55,10 +55,18 @@
 
 ## Workflow & Approval Management Entities
 
+### Workflow
 | Code   | Entity Name                      | Entity Code      | Configuration File   | Table Name |
 | :-:     | :--------                       | :----            | :----   | :----   |
 
 <br>
+
+### Approvals Management Engine (AME)
+| Code   | Entity Name                      | Entity Code      | Configuration File   | Table Name |
+| :-:     | :--------                       | :----            | :----   | :----   |
+
+<br>
+
 
 ## Reporting & BI Publisher (XDO) Entities
 
