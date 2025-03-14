@@ -16,8 +16,10 @@
 ## Application Object Library (AOL) Entities
 
 ### Lookups
-| Code   | Entity Name                      | Entity Code      | Configuration File   | Table Name |
-| :-:     | :--------                       | :----            | :----   | :----   |
+| Code   | Entity Name      | Entity Code      | Configuration File                    | Table Name |
+| :-:    | :--------        | :----            | :----                                 | :----   |
+| 1      | Lookups          | LOOKUP_TYPE      | $FND_TOP/patch/115/import/aflvmlu.lct | FND_LOOKUP_TYPES  |
+| 2      | Lookup Values    | LOOKUP_VALUE     | $FND_TOP/patch/115/import/aflvmlu.lct | FND_LOOKUP_VALUES  |
 
 <br>
 
