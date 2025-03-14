@@ -124,8 +124,9 @@
 ## SOA, Integrations & Web ADI Entities
 
 ### Integrated SOA Gateway (ISG)
-| Code   | Entity Name                      | Entity Code      | Configuration File   | Table Name |
-| :-:     | :--------                       | :----            | :----   | :----   |
+| Code | Entity Name   | Entity Code         | Configuration File                | Table Name |
+| :-:  | :--------     | :----               | :----                             | :----   |
+| 1    | SOA Gateway   | FND_SOA_INTEGRATION | $FND_TOP/patch/115/import/soa.lct | FND_SOA_INTEGRATIONS  |
 
 <br>
 
