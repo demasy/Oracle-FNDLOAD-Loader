@@ -130,9 +130,10 @@
 
 <br>
 
-### Web ADI
-| Code   | Entity Name                      | Entity Code      | Configuration File   | Table Name |
-| :-:     | :--------                       | :----            | :----   | :----   |
+### Application Desktop Integrator (Web ADI)
+| Code | Entity Name   | Entity Code     | Configuration File                          | Table Name |
+| :-:  | :--------     | :----           | :----                                       | :----   |
+| 1    | Web ADI       | BNE_INTEGRATOR  | $BNE_TOP/patch/115/import/bneintegrator.lct | BNE_INTEGRATORS  |
 
 <br>
 
