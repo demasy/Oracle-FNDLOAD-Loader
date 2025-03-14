@@ -78,8 +78,12 @@
 <br>
 
 ### Approvals Management Engine (AME)
-| Code   | Entity Name                      | Entity Code      | Configuration File   | Table Name |
-| :-:     | :--------                       | :----            | :----   | :----   |
+
+#### Transaction Types
+| Code | Entity Name       | Entity Code          | Configuration File                | Table Name |
+| :-:  | :--------         | :----                | :----                             | :----   |
+| 1    | Transaction Types | AME_TRANSACTION_TYPE | $AME_TOP/patch/115/import/ame.lct | AME_TRANSACTION_TYPES  |
+
 
 <br>
 
