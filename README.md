@@ -194,8 +194,8 @@ These entities are associated with reporting and template management in Oracle B
 
 ### SOA, Integrations & Web ADI Entities
 These entities facilitate integrations with external systems and allow data imports from desktop applications.
-  * SOA Gateway
-  * Web ADI (Application Desktop Integrator)
+  * <a href="#">SOA Gateway</a>
+  * <a href="#">Web ADI (Application Desktop Integrator)</a>
  
 ### Alerts Entity
 These entities are utilized for alerts.
