@@ -1,7 +1,7 @@
 # Naming Conventions
 
 ##### FNDLOAD File Name
-> {prefix_}{Enitiy Name}[{_suffix}]{_Language Code}
+> {prefix_}{enitiy-name}[{_suffix}]{_language-code}
 
 <br>
 
