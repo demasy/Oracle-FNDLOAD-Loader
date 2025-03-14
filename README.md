@@ -139,10 +139,10 @@ FNDLOAD apps/password 0 Y UPLOAD $FND_TOP/patch/115/import/<configfile>.lct <dat
 ### Concurrent Program Entities
 These entities are responsible for managing the execution of concurrent requests and their dependencies.
  - <a href="https://github.com/demasy/Oracle-FNDLOAD-Loader/tree/main/src/content/fndload-entities/concurrents/concurrent-program">Concurrent Programs</a>
- - Executables
- - Request Groups
- - Request Sets
- - Request Set Links
+ - <a href="https://github.com/demasy/Oracle-FNDLOAD-Loader/tree/main/src/content/fndload-entities/concurrents/executable">Executables</a> 
+ - <a href="https://github.com/demasy/Oracle-FNDLOAD-Loader/tree/main/src/content/fndload-entities/concurrents/request-groups">Request Groups</a>  
+ - <a href="https://github.com/demasy/Oracle-FNDLOAD-Loader/tree/main/src/content/fndload-entities/concurrents/request-set">Request Sets</a> 
+ - <a href="https://github.com/demasy/Oracle-FNDLOAD-Loader/tree/main/src/content/fndload-entities/concurrents/request-set-links">Request Set Links</a>
  
 ### Application Object Library (AOL) Entities
 These entities refer to core application-level configurations used for validation, system settings, and flexfields.
