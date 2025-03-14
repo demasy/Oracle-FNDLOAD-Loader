@@ -16,7 +16,6 @@ FNDLOAD utilizes two primary types of files to transfer configurations between O
 - **The .lct** file only defines the data structure, lacking actual data.
 - **FNDLOAD** utilizes this file during both **DOWNLOAD** and **UPLOAD** operations.
 
-
 #### Examples
 | Entity Name                           | Configuration File   |
 | :--------                             | :----   |
@@ -37,8 +36,6 @@ FNDLOAD utilizes two primary types of files to transfer configurations between O
 - The **.ldt** file (Loader Data File) contains extracted configuration data structured in a specific format.
 - This file is generated when configurations are downloaded from an Oracle EBS instance.
 - It can be transferred and uploaded to another instance using the FNDLOAD utility.
-
-<br>
 
  #### Examples
 | Entity Name                           | Example Data File (.ldt)   |
