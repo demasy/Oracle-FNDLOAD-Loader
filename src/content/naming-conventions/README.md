@@ -18,6 +18,17 @@ ORDER BY FL.INSTALLED_FLAG
  
 This is my recommendation for a naming convention for the data file name.
 
+ | SEQ | Type                 | Name                   | Prefix | Suffix | Example |
+ | :-: | :----------          | :----                  | :---   | :---   | :----   |
+ | 1   | Concurrent Programs  | XXDL_PROGRAM_CODE      | prog_  |   -     | prog_XXDL_PROGRAM_CODE_us.ldt |
+ | 2   | Executables          | XXDL_EXECUTABLE_CODE   | exe_   |   -     | exe_XXDL_EXECUTABLE_CODE_us.ldt |
+ | 3   | Request Groups       | XXDL_REQ_GROUP_CODE    | reqg_  |   -     | reqg_XXDL_REQ_GROUP_CODE_us.ldt |
+ | 4   | Request Sets         | XXDL_REQ_SET_CODE      | reqs_  |   -     | reqs_XXDL_REQ_SET_CODE_us.ldt |
+ | 5   | Request Set Links    | XXDL_REQ_SET_LINK_CODE | reqsl_ |   -     | reqsl_REQ_SET_LINK_CODE_us.ldt |
+
+ 
+<br>
+ 
  | SEQ       | Type                   | Name                           | Prefix | Suffix | Example |
  | :-:       | :----------            | :----                          | :---   | :---   | :----   |
  | 1         | Responsibility         | XXDL_RESPONSIBILITY_NAME       | resp_  |   -     | resp_XXDL_RESPONSIBILITY_NAME.ldt |
