@@ -147,17 +147,17 @@ These entities are responsible for managing the execution of concurrent requests
 ### Application Object Library (AOL) Entities
 These entities refer to core application-level configurations used for validation, system settings, and flexfields.
   * Lookups
-    * Lookup Types
-    * Lookup Values
+    * <a href="#">Lookup Types</a>
+    * <a href="#">Lookup Values</a>
   * Profile Options
-    * Profile Definitions
-    * Profile Option Values
-  * Messages Dictionary
-  * Attachments Setup
+    * <a href="#">Profile Definitions</a>
+    * <a href="#">Profile Option Values</a>
+  * <a href="#">Messages Dictionary</a>
+  * <a href="#">Attachments Setup</a>
   * Flexfields Setup
-    * Key Flexfield Structures
-    * Descriptive Flexfields
-    * Value Sets
+    * <a href="#">Key Flexfield Structures</a>
+    * <a href="#">Descriptive Flexfields</a>
+    * <a href="#">Value Sets</a>
    
 ### Security & Access Control Entities
 These entities are responsible for defining user roles, controlling menu access, and managing function-level security in the Oracle E-Business Suite (EBS).
