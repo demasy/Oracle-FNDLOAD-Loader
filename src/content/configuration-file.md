@@ -32,8 +32,11 @@
 <br>
 
 ### Flexfields
-| Code   | Entity Name                      | Entity Code      | Configuration File   | Table Name |
-| :-:     | :--------                       | :----            | :----   | :----   |
+| Code   | Entity Name               | Entity Code            | Configuration File                     | Table Name |
+| :-:    | :--------                 | :----                  | :----                                  | :----   |
+| 1      | Key Flexfield Structures  | KEY_FLEXFIELD          | $FND_TOP/patch/115/import/afffload.lct | FND_ID_FLEX_STRUCTURES  |
+| 2      | Descriptive Flexfields    | DESCRIPTIVE_FLEXFIELD  | $FND_TOP/patch/115/import/afffload.lct | FND_DESCRIPTIVE_FLEXS  |
+| 3      | Value Sets                | VALUE_SET              | $FND_TOP/patch/115/import/afffload.lct | FND_FLEX_VALUE_SETS  |
 
 <br>
 
