@@ -161,13 +161,13 @@ These entities refer to core application-level configurations used for validatio
    
 ### Security & Access Control Entities
 These entities are responsible for defining user roles, controlling menu access, and managing function-level security in the Oracle E-Business Suite (EBS).
-  * Users
-  * Responsibilities
-  * Menus
-  * Menu Entries
-  * Functions
-  * Forms
-  * Entry
+  * <a href="#">Users</a>
+  * <a href="#">Responsibilities</a>
+  * <a href="#">Menus</a>
+  * <a href="#">Menu Entries</a>
+  * <a href="#">Functions</a>
+  * <a href="#">Forms</a>
+  * <a href="#">Entry</a>
  
 ### Workflow & Approval Management Entities
 These entities are used for business approvals and workflow.
