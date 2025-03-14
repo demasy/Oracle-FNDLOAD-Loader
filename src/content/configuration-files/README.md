@@ -146,9 +146,9 @@
 <br>
 
 ## Forms Personalization Entities
-
-| Code   | Entity Name                      | Entity Code      | Configuration File   | Table Name |
-| :-:     | :--------                       | :----            | :----   | :----   |
+| Code | Entity Name            | Entity Code           | Configuration File                     | Table Name |
+| :-:  | :--------              | :----                 | :----                                  | :----      |
+| 1    | Forms Personalizations | FORMS_PERSONALIZATION | $FND_TOP/patch/115/import/affrmcus.lct | FND_FORM_CUSTOM_RULES  |
 
 <br>
 
