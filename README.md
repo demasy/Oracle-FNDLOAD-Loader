@@ -199,11 +199,11 @@ These entities facilitate integrations with external systems and allow data impo
  
 ### Alerts Entity
 These entities are utilized for alerts.
-  * Alerts
+  * <a href="#">Alerts</a>
 
-### Forms Customization & Personalization Entities
+### Forms Personalization Entities
 These entities are focused on enhancing the user interface of Oracle Forms to improve the overall user experience.
-  * Forms Personalizations
+  * <a href="#">Forms Personalizations</a>
 
 <br>
 
