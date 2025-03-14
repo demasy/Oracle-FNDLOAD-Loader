@@ -103,6 +103,11 @@
 | 2    | Approver Group Definitions   | AME_APPROVER_GROUP_DEF    | $AME_TOP/patch/115/import/ame.lct | AME_APPROVER_GROUP_DEFINITIONS  |
 | 3    | Approval Group Configuration | AME_APPROVAL_GROUP_CONFIG | $AME_TOP/patch/115/import/ame.lct | AME_APPROVAL_GROUP_CONFIGS  |
 
+#### Rules
+| Code | Entity Name       | Entity Code     | Configuration File                | Table Name |
+| :-:  | :--------         | :----           | :----                             | :----   |
+| 1    | Rule Definitions  | AME_RULE_DEF    | $AME_TOP/patch/115/import/ame.lct | AME_RULE_DEFINITIONS  |
+| 2    | Rule Usages       | AME_RULE_USAGE  | $AME_TOP/patch/115/import/ame.lct | AME_RULE_USAGES  |
 
 <br>
 
