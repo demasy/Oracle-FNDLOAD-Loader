@@ -19,7 +19,6 @@ ORDER BY FL.INSTALLED_FLAG
 This is my recommendation for a naming convention for the data file name.
 
 ## Concurrent Program Entities
-
  | SEQ | Type                 | Name                   | Prefix | Suffix | Example |
  | :-: | :----------          | :----                  | :---   | :---   | :----   |
  | 1   | Concurrent Programs  | XXDL_PROGRAM_CODE      | prog_  |   -     | prog_XXDL_PROGRAM_CODE_us.ldt |
@@ -28,6 +27,29 @@ This is my recommendation for a naming convention for the data file name.
  | 4   | Request Sets         | XXDL_REQ_SET_CODE      | reqs_  |   -     | reqs_XXDL_REQ_SET_CODE_us.ldt |
  | 5   | Request Set Links    | XXDL_REQ_SET_LINK_CODE | reqsl_ |   -     | reqsl_XXDL_REQ_SET_LINK_CODE_us.ldt |
 
+<br>
+
+## Application Object Library (AOL) Entities
+
+### Lookups
+ | SEQ | Type                 | Name                   | Prefix | Suffix | Example |
+ | :-: | :----------          | :----                  | :---   | :---   | :----   |
+ 
+## Profile Options
+ | SEQ | Type                 | Name                   | Prefix | Suffix | Example |
+ | :-: | :----------          | :----                  | :---   | :---   | :----   |
+
+### Flexfields
+ | SEQ | Type                 | Name                   | Prefix | Suffix | Example |
+ | :-: | :----------          | :----                  | :---   | :---   | :----   |
+
+### Messages Dictionary
+ | SEQ | Type                 | Name                   | Prefix | Suffix | Example |
+ | :-: | :----------          | :----                  | :---   | :---   | :----   |
+
+### Attachments
+ | SEQ | Type                 | Name                   | Prefix | Suffix | Example |
+ | :-: | :----------          | :----                  | :---   | :---   | :----   |
  
 <br>
  
