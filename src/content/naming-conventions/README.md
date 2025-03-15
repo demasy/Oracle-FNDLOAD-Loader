@@ -50,8 +50,31 @@ This is my recommendation for a naming convention for the data file name.
 ### Attachments
  | SEQ | Type                 | Name                   | Prefix | Suffix | Example |
  | :-: | :----------          | :----                  | :---   | :---   | :----   |
+
+<br>
+
+## Security & Access Control Entities
+ | SEQ | Type                 | Name                   | Prefix | Suffix | Example |
+ | :-: | :----------          | :----                  | :---   | :---   | :----   |
+
+<br>
+
+## Workflow & Approval Management Entities
+
+### Workflow
+ | SEQ | Type                 | Name                   | Prefix | Suffix | Example |
+ | :-: | :----------          | :----                  | :---   | :---   | :----   |
+ 
+### Approvals Management Engine (AME)
+ | SEQ | Type                 | Name                   | Prefix | Suffix | Example |
+ | :-: | :----------          | :----                  | :---   | :---   | :----   |
  
 <br>
+
+
+
+
+
  
  | SEQ       | Type                   | Name                           | Prefix | Suffix | Example |
  | :-:       | :----------            | :----                          | :---   | :---   | :----   |
