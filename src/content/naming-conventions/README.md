@@ -80,6 +80,7 @@ This is my recommendation for a naming convention for the data file name.
 ### Workflow
  | SEQ | Type                 | Name                   | Prefix | Suffix | Example |
  | :-: | :----------          | :----                  | :---   | :---   | :----   |
+ | 1   | HRSSA                | WFLOAD                 | wf_    |   -    | wf_HRSSA_us.ldt |
  
 ### Approvals Management Engine (AME)
 
