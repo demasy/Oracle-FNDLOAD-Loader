@@ -66,8 +66,27 @@ This is my recommendation for a naming convention for the data file name.
  | :-: | :----------          | :----                  | :---   | :---   | :----   |
  
 ### Approvals Management Engine (AME)
+
+ #### Transaction Types
  | SEQ | Type                 | Name                   | Prefix | Suffix | Example |
  | :-: | :----------          | :----                  | :---   | :---   | :----   |
+ 
+ #### Attributes
+ | SEQ | Type                 | Name                   | Prefix | Suffix | Example |
+ | :-: | :----------          | :----                  | :---   | :---   | :----   |
+ 
+ #### Conditions
+ | SEQ | Type                 | Name                   | Prefix | Suffix | Example |
+ | :-: | :----------          | :----                  | :---   | :---   | :----   |
+ 
+ #### Approver Groups
+ | SEQ | Type                 | Name                   | Prefix | Suffix | Example |
+ | :-: | :----------          | :----                  | :---   | :---   | :----   |
+ 
+ #### Rules
+ | SEQ | Type                 | Name                   | Prefix | Suffix | Example |
+ | :-: | :----------          | :----                  | :---   | :---   | :----   |
+ 
  
 <br>
 
@@ -75,7 +94,9 @@ This is my recommendation for a naming convention for the data file name.
 
 
 
- 
+
+<br>
+
  | SEQ       | Type                   | Name                           | Prefix | Suffix | Example |
  | :-:       | :----------            | :----                          | :---   | :---   | :----   |
  | 1         | Responsibility         | XXDL_RESPONSIBILITY_NAME       | resp_  |   -     | resp_XXDL_RESPONSIBILITY_NAME.ldt |
