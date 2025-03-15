@@ -35,7 +35,7 @@ This is my recommendation for a naming convention for the data file name.
  | SEQ | Type           | Name              | Prefix | Suffix | Example |
  | :-: | :----------    | :----             | :---   | :---   | :----   |
  | 1   | Lookups        | XXDL_LOOKUP_TYPE  | lu_    |   -    | lu_XXDL_LOOKUP_TYPE_us.ldt |
- | 2   | Lookup Values  | XXDL_LOOKUP_VALUE | luv_   |   -    | luv_XXDL_LOOKUP_VALUE_us.ldt | 
+ | 2   | Lookup Values  | XXDL_LOOKUP_VALUE | lu_    |   -    | luv_XXDL_LOOKUP_VALUE_us.ldt | 
 
 ### Profile Options
  | SEQ | Type                  | Name                | Prefix | Suffix | Example |
