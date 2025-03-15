@@ -35,12 +35,14 @@ This is my recommendation for a naming convention for the data file name.
  | SEQ | Type           | Name              | Prefix | Suffix | Example |
  | :-: | :----------    | :----             | :---   | :---   | :----   |
  | 1   | Lookups        | XXDL_LOOKUP_TYPE  | lu_    |   -    | lu_XXDL_LOOKUP_TYPE_us.ldt |
- | 1   | Lookup Values  | XXDL_LOOKUP_VALUE | luv_   |   -    | luv_XXDL_LOOKUP_VALUE_us.ldt | 
- 
-## Profile Options
- | SEQ | Type                 | Name                   | Prefix | Suffix | Example |
- | :-: | :----------          | :----                  | :---   | :---   | :----   |
+ | 2   | Lookup Values  | XXDL_LOOKUP_VALUE | luv_   |   -    | luv_XXDL_LOOKUP_VALUE_us.ldt | 
 
+### Profile Options
+ | SEQ | Type                  | Name                | Prefix | Suffix | Example |
+ | :-: | :----------           | :----               | :---   | :---   | :----   |
+ | 1   | Profile Options       | XXDL_PROFILE_OPTION | prof_  |   -    | prof_XXDL_PROFILE_OPTION_us.ldt |
+ | 2   | Profile Option Values | XXDL_OPTION_VALUE   | prof_  |   -    | prof_XXDL_OPTION_VALUE_us.ldt |  
+ 
 ### Flexfields
  | SEQ | Type                 | Name                   | Prefix | Suffix | Example |
  | :-: | :----------          | :----                  | :---   | :---   | :----   |
