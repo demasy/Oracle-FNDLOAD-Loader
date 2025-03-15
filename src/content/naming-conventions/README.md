@@ -51,9 +51,9 @@ This is my recommendation for a naming convention for the data file name.
  | 3   | Value Sets               | XXDL_VALUE_SET_CODE     | vs_    |   -    | vs_XXDL_VALUE_SET_CODE_us.ldt | 
  
 ### Messages Dictionary
- | SEQ | Type                 | Name                   | Prefix | Suffix | Example |
- | :-: | :----------          | :----                  | :---   | :---   | :----   |
- | 1   | Messages Dictionary | XXDL_MESSAGE         | msg_   |   -    | kff_XXDL_PROFILE_OPTION_us.ldt |
+ | SEQ | Type                | Name               | Prefix | Suffix | Example |
+ | :-: | :----------         | :----              | :---   | :---   | :----   |
+ | 1   | Messages Dictionary | XXDL_MESSAGE_CODE  | msg_   |   -    | msg_XXDL_MESSAGE_CODE_us.ldt |
  
 ### Attachments
  | SEQ | Type                 | Name                   | Prefix | Suffix | Example |
