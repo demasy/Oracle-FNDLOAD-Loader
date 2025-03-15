@@ -56,9 +56,10 @@ This is my recommendation for a naming convention for the data file name.
  | 1   | Messages Dictionary | XXDL_MESSAGE_CODE  | msg_   |   -    | msg_XXDL_MESSAGE_CODE_us.ldt |
  
 ### Attachments
- | SEQ | Type                 | Name                   | Prefix | Suffix | Example |
- | :-: | :----------          | :----                  | :---   | :---   | :----   |
-
+ | SEQ | Type                 | Name                   | Prefix   | Suffix | Example |
+ | :-: | :----------          | :----                  | :---     | :---   | :----   |
+ | 1   | Attachments Setup    | XXDL_ATTACHMENT        | attach_  |   -    | attach_XXDL_ATTACHMENT_us.ldt |
+ 
 <br>
 
 ## Security & Access Control Entities
