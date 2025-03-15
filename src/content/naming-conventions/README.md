@@ -63,9 +63,16 @@ This is my recommendation for a naming convention for the data file name.
 <br>
 
 ## Security & Access Control Entities
- | SEQ | Type                 | Name                   | Prefix | Suffix | Example |
- | :-: | :----------          | :----                  | :---   | :---   | :----   |
-
+ | SEQ | Type                 | Name                     | Prefix | Suffix | Example |
+ | :-: | :----------          | :----                    | :---   | :---   | :----   |
+ | 1   | Users                | XXDL_USER_NAME           | usr_   |   -    | usr_XXDL_USER_NAME_us.ldt |
+ | 2   | Responsibilities     | XXDL_RESPONSIBILITY_CODE | rsp_   |   -    | rsp_XXDL_RESPONSIBILITY_CODE_us.ldt |
+ | 3   | Menus                | XXDL_MENU_CODE           | mu_    |   -    | mu_XXDL_MENU_CODE_us.ldt |
+ | 4   | Menu Entries         | XXDL_MENU_ENTRY_CODE     | mue_   |   -    | mue_XXDL_MENU_ENTRY_CODE_us.ldt |
+ | 5   | Functions            | XXDL_FUNCTION_CODE       | func_  |   -    | func_XXDL_FUNCTION_CODE_us.ldt |
+ | 6   | Forms                | XXDL_FORM_CODE           | forms_ |   -    | forms_XXDL_FORM_CODE_us.ldt |
+ | 7   | Entry.               | XXDL_ENTRY_CODE          | entry_ |   -    | entry_XXDL_ENTRY_CODE_us.ldt |
+ 
 <br>
 
 ## Workflow & Approval Management Entities
