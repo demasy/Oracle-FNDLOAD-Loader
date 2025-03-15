@@ -106,7 +106,17 @@ This is my recommendation for a naming convention for the data file name.
  | SEQ | Type                 | Name                   | Prefix | Suffix | Example |
  | :-: | :----------          | :----                  | :---   | :---   | :----   |
 
+<br>
 
+## Alerts Entity
+ | SEQ | Type                 | Name                   | Prefix | Suffix | Example |
+ | :-: | :----------          | :----                  | :---   | :---   | :----   |
+ 
+<br>
+
+## Forms Personalization Entities
+ | SEQ | Type                 | Name                   | Prefix | Suffix | Example |
+ | :-: | :----------          | :----                  | :---   | :---   | :----   |
 
 <br>
 
