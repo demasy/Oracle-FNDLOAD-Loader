@@ -44,16 +44,17 @@ This is my recommendation for a naming convention for the data file name.
  | 2   | Profile Option Values | XXDL_OPTION_VALUE   | prof_  |   -    | prof_XXDL_OPTION_VALUE_us.ldt |  
  
 ### Flexfields
- | SEQ | Type                     | Name                  | Prefix | Suffix | Example |
- | :-: | :----------              | :----                 | :---   | :---   | :----   |
- | 1   | Key Flexfield Structures | KEY_FLEXFIELD         | kff_   |   -    | kff_XXDL_PROFILE_OPTION_us.ldt |
- | 2   | Descriptive Flexfields   | DESCRIPTIVE_FLEXFIELD | dff_   |   -    | dff_XXDL_OPTION_VALUE_us.ldt |  
- | 3   | Value Sets               | VALUE_SET             | vs_    |   -    | vs_XXDL_OPTION_VALUE_us.ldt | 
+ | SEQ | Type                     | Name                    | Prefix | Suffix | Example |
+ | :-: | :----------              | :----                   | :---   | :---   | :----   |
+ | 1   | Key Flexfield Structures | XXDL_KEY_FLEXFIELD_CODE | kff_   |   -    | kff_XXDL_KEY_FLEXFIELD_CODE_us.ldt |
+ | 2   | Descriptive Flexfields   | XXDL_DESCRIPTIVE_CODE   | dff_   |   -    | dff_XXDL_DESCRIPTIVE_CODE_us.ldt |  
+ | 3   | Value Sets               | XXDL_VALUE_SET_CODE     | vs_    |   -    | vs_XXDL_VALUE_SET_CODE_us.ldt | 
  
 ### Messages Dictionary
  | SEQ | Type                 | Name                   | Prefix | Suffix | Example |
  | :-: | :----------          | :----                  | :---   | :---   | :----   |
-
+ | 1   | Messages Dictionary | XXDL_MESSAGE         | msg_   |   -    | kff_XXDL_PROFILE_OPTION_us.ldt |
+ 
 ### Attachments
  | SEQ | Type                 | Name                   | Prefix | Suffix | Example |
  | :-: | :----------          | :----                  | :---   | :---   | :----   |
