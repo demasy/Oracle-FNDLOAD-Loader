@@ -90,8 +90,21 @@ This is my recommendation for a naming convention for the data file name.
  
 <br>
 
+## Reporting & BI Publisher (XDO) Entities
+ | SEQ | Type                 | Name                   | Prefix | Suffix | Example |
+ | :-: | :----------          | :----                  | :---   | :---   | :----   |
 
+<br>
 
+## SOA, Integrations & Web ADI Entities
+
+### Integrated SOA Gateway (ISG)
+ | SEQ | Type                 | Name                   | Prefix | Suffix | Example |
+ | :-: | :----------          | :----                  | :---   | :---   | :----   |
+ 
+### Application Desktop Integrator (Web ADI)
+ | SEQ | Type                 | Name                   | Prefix | Suffix | Example |
+ | :-: | :----------          | :----                  | :---   | :---   | :----   |
 
 
 
